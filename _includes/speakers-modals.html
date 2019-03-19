@@ -1,7 +1,30 @@
-<!-- Begin Speakers Modals -->
+<!-- Begin Speakers Modals-->
 <div class="modals" class="modals">
-	{% for speaker in site.data.speakers %}
-		{% if page.modal == "all" or (page.modal == 'team' and (speaker.team != null or speaker.subTeam != null)) %}
+  {% for speaker in site.data.speakers %}
+   <div class="modal fade" id="modal-{{ speaker.id }}" tabindex="-1"
+  role="dialog" aria-labelledby="modallabel-{{ speaker.id }}"
+  aria-hidden="true" display="none">
+   <div class="modal-dialog" role="document">
+     <div class="modal-content">
+       <div class="modal-header">
+         <h5 class="modal-title" id="modallabel-{{ teamMember.id }}">{{ speaker.talktitle}}</h5>
+         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+           <span aria-hidden="true">&times;</span>
+         </button>
+       </div>
+       <div class="modal-body">
+         <strong>Abstract:</strong> {{ speaker.abstract }}
+         <br/><br/>
+         <strong>Bio:</strong> {{ speaker.bio }}
+      </div>
+       <div class="modal-footer">
+         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+       </div>
+     </div>
+   </div>
+ </div>
+
+		<!-- {% if page.modal == "all" or (page.modal == 'team' and (speaker.team != null or speaker.subTeam != null)) %} -->
 		<div class="modal fade text-left people-modal" id="speakerDetail-{{ speaker.id }}" tabindex="-1" role="dialog" aria-labelledby="speakerDetailLabel-{{ speaker.id }}" aria-hidden="true">
 			<div class="modal-dialog">
 				<div class="modal-content">
@@ -33,7 +56,7 @@
 										<a class="theme-presentation" href="{{ session.presentation }}" title="Presentation" target="_blank">View presentation</a>
 										{% endif %}
 									{% endif %}
-								{% endfor %}		
+								{% endfor %}
 							{% endfor %}
 							<hr>
 						{% endif %}
@@ -49,7 +72,7 @@
 									{% if speaker.ribbon != null %}
 									<div class="modal-ribbon-wrapper">
 			                            {% for ribbon in speaker.ribbon %}
-			                               <a class="modal-ribbon" href="{{ ribbon["url"] }}" target="_blank">{{ ribbon["title"] }}</a>   
+			                               <a class="modal-ribbon" href="{{ ribbon["url"] }}" target="_blank">{{ ribbon["title"] }}</a>
 			                            {% endfor %}
 			                        </div>
 			                        {% endif %}
@@ -72,7 +95,7 @@
 				</div>
 			</div>
 		</div>
-		{% endif %}
+		<!-- {% endif %} -->
 	{% endfor %}
 </div>
-<!-- End Speakers Modals -->
+ End Speakers Modals -->
