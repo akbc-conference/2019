@@ -1,0 +1,166 @@
+-
+  id: 1
+  name: "Waleed"
+  surname: "Ammar"
+  title: "AI2"
+  talktitle: "Taming the scientific literature: progress and challenges"
+  abstract: "TBA"
+  bio: "Waleed Ammar is a senior research scientist at the Allen Institute for Artificial Intelligence (AI2). He is interested in developing NLP models with practical applications, especially in the scientific and medical domains. Before joining AI2, Waleed developed morphology models for machine translation with Microsoft Research, and developed semi-supervised and cross-lingual models for low resource languages while pursuing his PhD at Carnegie Mellon University. He co-hosts the NLP highlights podcast which interviews NLP researchers and discusses recent developments in the field. "
+  thumbnailUrl: waleed.jpg
+  speaker: true
+  social:
+    - {name: "site",   link: "https://allenai.org/team/waleeda/"}
+-
+  id: 2
+  name: "Danqi"
+  surname: "Chen"
+  title: "Stanford, Princeton"
+  talktitle: "TBA"
+  abstract: "TBA"
+  bio: "Danqi Chen is currently a visiting research scientist at Facebook AI Research (FAIR) and will be joining Princeton University as an assistant professor in Fall 2019. She graduated from Stanford University recently, where she was working with Christopher Manning on deep learning approaches to natural language processing. Her research centers on how computers can achieve a deep understanding of human language and the information it contains. Danqi received Outstanding Paper Awards at ACL 2016 and EMNLP 2017, a Facebook Fellowship, a Microsoft Research Women’s Fellowship."
+  thumbnailUrl: danqi.cropped.jpeg
+  speaker: true
+  social:
+    - {name: "site",   link: "https://cs.stanford.edu/~danqi/"}
+-
+  id: 3
+  name: "Yejin"
+  surname: "Choi"
+  title: "UW, AI2"
+  talktitle: "ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning"
+  abstract: "TBA"
+  bio: "Yejin Choi is an associate professor at the Paul G. Allen School of Computer Science & Engineering at the University of Washington and also a senior research manager at AI2 overseeing the project Mosaic. Her research interests include language grounding with vision, physical and social commonsense knowledge, language generation with long-term coherence, conversational AI, and AI for social good. She was a recepient of Borg Early Career Award (BECA) in 2018, among the IEEE’s AI Top 10 to Watch in 2015, a co-recipient of the Marr Prize at ICCV 2013, and a faculty advisor for the Sounding Board team that won the inaugural Alexa Prize Challenge in 2017. Her work on detecting deceptive reviews, predicting literary success, and interpreting bias and connotation has been featured by numerous media outlets including NBC News for New York, NPR Radio, the New York Times, and Bloomberg Business Week. She received her Ph.D. in Computer Science from Cornell University."
+  thumbnailUrl: yejin.jpg
+  speaker: true
+  social:
+    - {name: "site",   link: "https://homes.cs.washington.edu/~yejin/"}
+-
+  id: 4
+  name: "Laura"
+  surname: "Dietz"
+  title: "UNH"
+  talktitle: "Utilizing Knowledge Bases for Text Retrieval: A Wishlist"
+  abstract: "The development of knowledge graph construction methods and the availability of large general-purpose knowlegde graphs (KGs) have led to several advances in information retrieval (IR). For example, entity linking and KGs provide additional useful information about text and search queries, giving rise to more accurate models of relevance. This KG-enabled retrieval approach sets a new standard for several IR benchmarks. However, the exploitation of relational information in IR proves difficult for various reasons, such as low extraction recall, sparsity of schemas, and biases in the extraction pipeline. This talk discusses use cases and necessary conditions for successfully applying AKBC technology in IR. The talk entails a wishlist towards AKBC researchers for widening the impact of knowlegde base construction methods in information retrieval."
+  bio: "Laura Dietz is an Assistant Professor at the University of New Hampshire, where she leads the lab for text retrieval, extraction, machine learning and analytics (TREMA). She organizes a tutorial/workshop series on Utilizing Knowledge Graphs in Text-centric Retrieval (KG4IR) and coordinates the TREC Complex Answer Retrieval Track. She received an NSF CAREER Award for utilizing fine-grained knowledge annotations in text understanding and retrieval.  Previously, she was a research scientist in the Data and Web Science group at Mannheim University, and a research scientist with Bruce Croft and Andrew McCallum at the Center for Intelligent Information Retrieval (CIIR) at UMass Amherst. She obtained her doctoral degree with a thesis on topic models for networked data from Max Planck Institute for Informatics, supervised by Tobias Scheffer and Gerhard Weikum."
+  thumbnailUrl: dietz.plain.cropped.jpeg
+  speaker: true
+  social:
+    - {name: "site", link: "http://www.cs.unh.edu/~dietz/"}
+-
+  id: 5
+  name: "Lise"
+  surname: "Getoor"
+  title: "UCSC"
+  talktitle: "Scalably Integrating Statistics and Semantics for Knowledge Graph Construction"
+  abstract: "TBA"
+  bio: "Lise Getoor is a professor in the Computer Science Department at UC Santa Cruz and director of the UCSC D3 Data Science Research Center. Her research areas include machine learning and reasoning under uncertainty; in addition she works in data integration, visual analytics and social network analysis. She has over 200 publications and extensive experience with machine learning and probabilistic modeling methods for graph and network data. She is a Fellow of the Association for Artificial Intelligence, has served as an elected board member of the International Machine Learning Society, has served on the board of the Computing Research Association (CRA), has served as Machine Learning Journal Action Editor, Associate Editor for the ACM Transactions of Knowledge Discovery from Data, JAIR Associate Editor, and on the AAAI Council. She was co-chair for ICML 2011, and has served on the PC of many conferences including the senior PC of AAAI, ICML, KDD, UAI, WSDM and the PC of SIGMOD, VLDB, and WWW. She is a recipient of an NSF Career Award and twelve best paper and best student paper awards. She received her PhD from Stanford University in 2001, her MS from UC Berkeley, and her BS from UC Santa Barbara, and was a professor at the University of Maryland, College Park from 2001-2013."
+  thumbnailUrl: getoor.cropped.jpeg
+  speaker: true
+  social:
+    - {name: "site", link: "https://getoor.soe.ucsc.edu/home"}
+-
+  id: 6
+  name: "Alexandra"
+  surname: "Meliou"
+  title: "UMass Amherst"
+  talktitle: "Finding the Right Web Sources to Fill Knowledge Gaps"
+  abstract: "TBA"
+  bio: "Alexandra Meliou is an Assistant Professor in the College of Information and Computer Science, at the University of Massachusetts, Amherst. Prior to that, she was a Post-Doctoral Research Associate at the University of Washington. Alexandra received her PhD degree from the Electrical Engineering and Computer Sciences Department at the University of California, Berkeley. She has received recognitions for research and teaching, including a CACM Research Highlight, an ACM SIGMOD Research Highlight Award, an ACM SIGSOFT Distinguished Paper Award, an NSF CAREER Award, a Google Faculty Research Award, and a Lilly Fellowship for Teaching Excellence. Her research focuses on data provenance, causality, explanations, data quality, and algorithmic fairness."
+  thumbnailUrl: alexandra.cropped.jpeg
+  speaker: true
+  social:
+    - {name: "site", link: "https://people.cs.umass.edu/~ameli/"}
+-
+  id: 7
+  name: "Ndapa"
+  surname: "Nakashole"
+  title: "UCSD"
+  talktitle: "TBA"
+  abstract: "TBA"
+  thumbnailUrl: photo-coming-soon.jpg
+  social:
+    - {name: "site", link: "http://nakashole.com/"}
+-
+  id: 8
+  name: "Fernando"
+  surname: "Pereira"
+  title: "Google"
+  talktitle: "Representation Learning and the Challenge of Reasoning"
+  abstract: "Advances in machine learning (ML) have led to a golden age of increasingly rich models of language with large experimental gains in many language understanding tasks. In the midst of this plenty, we are also getting a better sense of where these new methods fall short. I will walk you through a collection of examples that are obvious for people but pose unsolved simple reasoning challenges to current ML methods. I will conclude with a few suggestions on how ML might be guided to learn useful reasoning patterns."
+  bio: "Fernando Pereira is VP and Engineering Fellow at Google, where he leads research and development in natural language understanding and machine learning. His previous positions include chair of the Computer and Information Science department of the University of Pennsylvania, head of the Machine Learning and Information Retrieval department at AT&T Labs, and research and management positions at SRI International. He received a Ph.D. in Artificial Intelligence from the University of Edinburgh in 1982, and has over 120 research publications on computational linguistics, machine learning, bioinformatics, speech recognition, and logic programming, as well as several patents.  He was elected AAAI Fellow in 1991 for contributions to computational linguistics and logic programming, ACM Fellow in 2010 for contributions to machine learning models of natural language and biological sequences, and ACL Fellow for contributions to sequence modeling, finite-state methods, and dependency and deductive parsing.  He was president of the Association for Computational Linguistics in 1993."
+  thumbnailUrl: fernando.jpg
+  speaker: true
+  social:
+    - {name: "site",   link: "https://ai.google/research/people/author1092"}
+-
+  id: 9
+  name: "Hoifung"
+  surname: "Poon"
+  title: "MSR"
+  talktitle: "Machine Reading for Precision Medicine"
+  abstract: "TBA"
+  bio: "Hoifung Poon is the Director of Precision Health NLP at Microsoft Research. He leads Project Hanover, with the overarching goal of advancing machine reading for precision health, by combining probabilistic logic with deep learning. He has given tutorials on this topic at top AI conferences such as the Association for Computational Linguistics (ACL) and the Association for the Advancement of Artificial Intelligence (AAAI). His research spans a wide range of problems in machine learning and natural language processing (NLP), and his prior work has been recognized with Best Paper Awards from premier venues such as the North American Chapter of the Association for Computational Linguistics (NAACL), Empirical Methods in Natural Language Processing (EMNLP), and Uncertainty in AI (UAI). He received his PhD in Computer Science and Engineering from University of Washington, specializing in machine learning and NLP."
+  thumbnailUrl: hoifung.omni.jpg
+  speaker: true
+  social:
+    - {name: "site",   link: "https://www.microsoft.com/en-us/research/people/hoifung/"}
+-
+  id: 10
+  name: "Chris"
+  surname: "Re"
+  title: "Stanford, Apple"
+  talktitle: "TBA"
+  abstract: "TBA"
+  bio: "TBA"
+  thumbnailUrl: photo-coming-soon.jpg
+  speaker: true
+  social:
+    - {name: "site",   link: "https://cs.stanford.edu/people/chrismre/"}
+-
+  id: 11
+  name: "Sebastian"
+  surname: "Riedel"
+  title: "UCL, Facebook"
+  talktitle: "The Deconstruction of Automated Knowledge Base Construction"
+  abstract: "TBA"
+  bio: "Sebastian Riedel is a researcher at Facebook AI research, professor in Natural Language Processing and Machine Learning at the University College London (UCL) and an Allen Distinguished Investigator. He works in the intersection of Natural Language Processing and Machine Learning, and focuses on teaching machines how to read and reason. He was educated in Hamburg-Harburg (Dipl. Ing) and Edinburgh (MSc., PhD), and worked at the University of Massachusetts Amherst and Tokyo University before joining UCL."
+  thumbnailUrl: sebastian_riedel.png
+  speaker: true
+  social:
+    - {name: "site", link: "http://www.riedelcastro.org/"}
+-
+  id: 12
+  name: "Guy"
+  surname: "Van den Broeck"
+  title: "UCLA"
+  talktitle: "Towards Querying Probabilistic Knowledge Bases"
+  abstract: "TBA"
+  bio: "Guy Van den Broeck is an Assistant Professor and Samueli Fellow in the Computer Science Department at the University of California, Los Angeles (UCLA). Guy’s research interests are in artificial intelligence, machine learning, logical and probabilistic automated reasoning, and statistical relational learning. He also studies applications of reasoning in other fields, such as probabilistic databases and programming languages. Guy’s work received best paper awards from key artificial intelligence venues such as UAI, ILP, and KR, and an outstanding paper honorable mention at AAAI. His doctoral thesis was awarded the ECCAI Dissertation Award for the best European dissertation in AI. He directs the Statistical and Relational Artificial Intelligence (StarAI) Lab at UCLA."
+  thumbnailUrl: guy-vdb.jpg
+  speaker: true
+  social:
+    - {name: "site",   link: "http://web.cs.ucla.edu/~guyvdb/"}
+-
+  id: 13
+  name: "Claudia"
+  surname: "Wagner"
+  title: "Leibniz Institute for Social Sciences"
+  talktitle: "Gender Bias and Sexism in Language"
+  abstract: "TBA"
+  bio: "Claudia Wagner is an assistant professor in Computer Science at University Koblenz-Landau and the interim Scientific Director of the department Computational Social Science at GESIS - Leibniz Institute for the Social Sciences. Wagner received her PhD from Graz University of Technology in 2013, before she joined GESIS as postdoctoral researcher (2013-2016). Prior to that she conducted several international research internships, among others at HP labs, Xerox PARC  and the Open University. To date, she has been awarded substantial research funding either as a PI or co-PI, was awarded with a DOC-fFORTE fellowship from the Austrian Academy of Sciences and received best paper awards (at ESWC 2010, SocialCom 2012, ICWSM 2014 and WebSci 2015). Her research focuses on computational methods and models for analyzing social issues (e.g. gender inequality, sexism) and social phenomena (e.g. collective attention, culture) using digital trace data."
+  thumbnailUrl: claudia_wagner.cropped.jpeg
+  speaker: true
+  social:
+    - {name: "site",   link: "http://www.claudiawagner.info/"}
+-
+  id: 14
+  name: "Chris"
+  surname: "Welty"
+  title: "Google"
+  talktitle: "TBA"
+  abstract: "TBA"
+  bio: "TBA"
+  thumbnailUrl: photo-coming-soon.jpg
+  speaker: true
+  social:
+    - {name: "site",   link: "https://ai.google/research/people/104789"}
