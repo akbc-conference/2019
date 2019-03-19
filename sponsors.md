@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sponsors
-permalink: /2019/sponsors/
+permalink: /sponsors/
 ---
 
 {% include top-section.html %}
