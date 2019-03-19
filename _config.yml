@@ -42,20 +42,20 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 # Navigation
 navigationLinks:
- - {permalink: "/2019", text: "Home"}
-# - {permalink: "/2019/#about", text: "About"}
- - {permalink: "/2019/cfp/", text: "Call"}
- - {permalink: "/2019/registration/", text: "Register"}
-# - {permalink: "/2019/submission.html", text: "Submit"}
- - {permalink: "/2019/#dates", text: "Dates"}
-# - {permalink: "/2019/#speakers", text: "Speakers"}
- - {permalink: "/2019/speakers/", text: "Speakers"}
- - {permalink: "/2019/workshops/", text: "Workshops"}
- - {permalink: "/2019/org/", text: "Organization"}
-# - {permalink: "/2019/#prev", text: "Prev. Workshops"}
- - {permalink: "/2019/participants/", text: "Participants"}
+ - {permalink: "/", text: "Home"}
+# - {permalink: "/#about", text: "About"}
+ - {permalink: "/cfp/", text: "Call"}
+ - {permalink: "/registration/", text: "Register"}
+# - {permalink: "/submission.html", text: "Submit"}
+ - {permalink: "/#dates", text: "Dates"}
+# - {permalink: "/#speakers", text: "Speakers"}
+ - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/workshops/", text: "Workshops"}
+ - {permalink: "/org/", text: "Organization"}
+# - {permalink: "/#prev", text: "Prev. Workshops"}
+ - {permalink: "/participants/", text: "Participants"}
  - {link: "https://openreview.net/group?id=AKBC.ws/2019/Conference", text: "Accepted Papers"}
- - {permalink: "/2019/sponsors/", text: "Sponsors"}
+ - {permalink: "/sponsors/", text: "Sponsors"}
 #  - {permalink: "/blog/", text: "Blog"}
 #  - {permalink: "/schedule/", text: "Schedule"}
 #  - {permalink: "/speakers/", text: "Speakers"}
