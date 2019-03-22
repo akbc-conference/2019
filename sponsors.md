@@ -20,6 +20,7 @@ permalink: /sponsors/
 <h6>Silver Sponsors</h6>
 <div class="row">
 <div class="col-md-4"><img style="max-height:100%;max-width:100%;" src="{{ site.baseurl | append: '/img/sponsors/oracle-sponsorship-clr.png'}}" alt="Oracle Corporation"></div>
+<div class="col-md-4"><img style="max-height:100%;max-width:100%;" src="{{ site.baseurl | append: '/img/sponsors/diffbot-vertical-light-background@2x.png'}}" alt="Diffbot"></div>
 </div>
 
 <h6>Bronze Sponsors</h6>
