@@ -1,29 +1,68 @@
-<div class="col-lg-10 col-lg-offset-1 text-center">
- <h4 class="text-left animated hiding appear-animation-trigger"
-  data-animation="fadeInUp" data-delay="0"></h4>
-  {% for teamMember in site.data.speakers %} {% if teamMember.speaker != null %}
-
- <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
-    <div class="zoe-effect" data-toggle="modal"
-         data-target="#modal-{{ teamMember.id }}">
-      <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: teamMember.thumbnailUrl }})">
-        <div class="overlay solid-overlay"></div>
-        <figcaption>
-          <div class="col-md-8 col-xs-8 text-left">
-            <h2 class="name">{{ teamMember.name }} <span>{{ teamMember.surname }}</span></h2>
-            <div class="clearfix"></div>
-            <span class="position">{{teamMember.title}} | {{ teamMember.talktitle }}</span>
-          </div>
-          {% for social in teamMember.social %}
-          <a href="{{ social["link"] }}" target="_blank">
-            <svg class="icon icon-{{ social["name"] }}" viewBox="0 0 30 32">
-              <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social["name"] }}"></use>
-            </svg>
-          </a>
-          {% endfor %}
-        </figcaption>
-      </figure>
+<div class="grid-container">
+  <div class="grid-x grid-padding-x small-up-2 medium-up-3">
+    <div class="cell">
+      <div class="card">
+        <img src="assets/img/generic/rectangle-1.jpg">
+        <div class="card-section">
+        <h4>This is a row of cards.</h4>
+          <p>This row of cards is embedded in an X-Y Block Grid.</p>
+        </div>
+      </div>
+    </div>
+    <div class="cell">
+      <div class="card">
+        <img src="assets/img/generic/rectangle-1.jpg">
+        <div class="card-section">
+          <h4>This is a card.</h4>
+          <p>It has an easy to override visual style, and is appropriately subdued.</p>
+        </div>
+      </div>
+    </div>
+    <div class="cell">
+      <div class="card">
+        <img src="assets/img/generic/rectangle-1.jpg">
+        <div class="card-section">
+          <h4>This is a card.</h4>
+          <p>It has an easy to override visual style, and is appropriately subdued.</p>
+        </div>
+      </div>
     </div>
   </div>
-  {% endif %} {% endfor %}
+</div>
+<div class="grid-x grid-padding-x small-up-2 medium-up-3">
+  <div class="cell">
+    <div class="card">
+      <img src="assets/img/generic/rectangle-1.jpg">
+      <div class="card-section">
+        <h4>This is a row of cards.</h4>
+        <p>This row of cards is embedded in an Flex Block Grid.</p>
+      </div>
+    </div>
+  </div>
+  <div class="cell">
+    <div class="card">
+      <img src="assets/img/generic/rectangle-1.jpg">
+      <div class="card-section">
+        <h4>This is a card.</h4>
+        <p>It has an easy to override visual style, and is appropriately subdued.</p>
+      </div>
+    </div>
+  </div>
+  <div class="cell">
+    <div class="card">
+      <img src="assets/img/generic/rectangle-1.jpg">
+      <div class="card-section">
+        <h4>This is a card.</h4>
+        <p>It has an easy to override visual style, and is appropriately subdued.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<div class="row">
+{% for speaker in site.data.speakers %} 
+{% include speakerbox.html %} 
+{% endfor %} 
 </div>

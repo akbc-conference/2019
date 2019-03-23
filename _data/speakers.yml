@@ -72,16 +72,6 @@
     - {name: "site", link: "https://people.cs.umass.edu/~ameli/"}
 -
   id: 7
-  name: "Ndapa"
-  surname: "Nakashole"
-  title: "UCSD"
-  talktitle: "TBA"
-  abstract: "TBA"
-  thumbnailUrl: photo-coming-soon.jpg
-  social:
-    - {name: "site", link: "http://nakashole.com/"}
--
-  id: 8
   name: "Fernando"
   surname: "Pereira"
   title: "Google"
@@ -93,7 +83,7 @@
   social:
     - {name: "site",   link: "https://ai.google/research/people/author1092"}
 -
-  id: 9
+  id: 8
   name: "Hoifung"
   surname: "Poon"
   title: "MSR"
@@ -105,7 +95,7 @@
   social:
     - {name: "site",   link: "https://www.microsoft.com/en-us/research/people/hoifung/"}
 -
-  id: 10
+  id: 9
   name: "Chris"
   surname: "Ré"
   title: "Stanford, Apple"
@@ -120,7 +110,7 @@ Snorkel is being used by scientists in areas including genomics and drug repurpo
   social:
     - {name: "site",   link: "https://cs.stanford.edu/people/chrismre/"}
 -
-  id: 11
+  id: 10
   name: "Sebastian"
   surname: "Riedel"
   title: "UCL, Facebook"
@@ -132,7 +122,7 @@ Snorkel is being used by scientists in areas including genomics and drug repurpo
   social:
     - {name: "site", link: "http://www.riedelcastro.org/"}
 -
-  id: 12
+  id: 11
   name: "Guy"
   surname: "Van den Broeck"
   title: "UCLA"
@@ -144,7 +134,7 @@ Snorkel is being used by scientists in areas including genomics and drug repurpo
   social:
     - {name: "site",   link: "http://web.cs.ucla.edu/~guyvdb/"}
 -
-  id: 13
+  id: 12
   name: "Claudia"
   surname: "Wagner"
   title: "Leibniz Institute for Social Sciences"
@@ -156,7 +146,7 @@ Snorkel is being used by scientists in areas including genomics and drug repurpo
   social:
     - {name: "site",   link: "http://www.claudiawagner.info/"}
 -
-  id: 14
+  id: 13
   name: "Chris"
   surname: "Welty"
   title: "Google"

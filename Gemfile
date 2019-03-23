@@ -1,6 +1,13 @@
-source "http://rubygems.org"
+source 'https://rubygems.org'
 
-gem 'github-pages'
-gem 'compass'
-gem 'sass-media_query_combiner'
-gem 'autoprefixer-rails'
+gem 'jekyll'
+
+group :jekyll_plugins do
+  gem 'jekyll-gist'
+  gem 'jekyll-paginate'
+  gem "jekyll-asciidoc"
+end
+
+gem 'asciidoctor', '~> 1.5.4'
+gem 'coderay', '1.1.1'
+

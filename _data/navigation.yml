@@ -1,0 +1,47 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: "Program"
+  url: "/speakers/"
+  side: left
+  dropdown:
+  - title: "Speakers"
+    url: "/speakers/"
+  - title: "Workshops"
+    url: "/workshops/"
+  - title: "Schedule"
+    url: "/schedule/"
+  - title: "Accepted papers"
+    url: "https://openreview.net/group?id=AKBC.ws/2019/Conference"
+  - title: Call for papers
+    url: "/cfp/"
+
+- title: "Information for participants"
+  url: "/venue/"
+  side: left
+  dropdown:
+  - title: "Venue"
+    url: "/venue/"
+  - title: "Visa information"
+    url: "/registration/#visa"
+  - title: "Travel"
+    url: "/travel/"
+  
+- title: Sponsors
+  url: "/sponsors/"
+  side: right
+
+- title: Dates
+  url: "/#dates"
+  side: right
+
+- title: Registration
+  url: "/registration/"
+  side: right
+
+- title: Organization
+  url: "/organization/"
+  side: right
+
+
