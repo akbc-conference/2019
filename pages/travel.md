@@ -11,6 +11,7 @@ Located in scenic Western Massachusetts, Amherst is conveniently accessible by a
 
 <div class="row">
 <div class="small-8 large-8 columns">
+<br />
 <h3 class="text-center"> By Air </h3>
 <br />
 </div>
