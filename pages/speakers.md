@@ -14,7 +14,7 @@ header:
   <img src="{{ site.baseurl }}/images/people/{{ speaker.thumbnailUrl}}"  alt="{{ speaker.name }} {{ speaker.surname }}" style="width: 300px" />
 </div>
 
-<div class="small-8 large-6 columns" markdown="1">
+<div class="small-8 large-7 columns" markdown="1">
 <a href="#{{ speaker.name }}"></a>
 
 ### [{{ speaker.name }} {{ speaker.surname }}]({{ speaker.social[0].link }})
