@@ -13,7 +13,8 @@ Please note that hotel booking is not part of the AKBC conference registration p
 * April 5th: Early Registration Deadline
 * April 21st: Hotel rooms no longer held
 
-### <a name="visa"></a> Visa Information:
+<a name="visa"></a>
+### Visa Information:
 
 The B-1 Visa is a nonimmigrant tourist visa.  For official visa information please see:
 
