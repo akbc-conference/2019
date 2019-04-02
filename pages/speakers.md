@@ -15,13 +15,13 @@ header:
 </div>
 
 <div class="small-8 large-7 columns" markdown="1">
-<a href="#{{ speaker.name }}"></a>
+<a href="#{{ speaker.name }}{{ speaker.surname }}"></a>
 
 ### [{{ speaker.name }} {{ speaker.surname }}]({{ speaker.social[0].link }})
 #### {{ speaker.title }}
 <br />
 _{{ speaker.talktitle }}_ <br />
-<a href="" data-reveal-id="{{ speaker.name }}Modal"> Abstract and Bio </a> &nbsp;
+<a href="" data-reveal-id="{{ speaker.name }}{{ speaker.surname }}Modal"> Abstract and Bio </a> &nbsp;
 </div>
 
 <div class="large-1 columns"></div>
@@ -36,7 +36,7 @@ _{{ speaker.talktitle }}_ <br />
 
 
 <!-- Modal -->
-<div id="{{ speaker.name }}Modal" class="reveal-modal large" data-reveal aria-labelledby="{{ speaker.name }}Modal" aria-hidden="true" role="dialog">
+<div id="{{ speaker.name }}{{ speaker.surname }}Modal" class="reveal-modal large" data-reveal aria-labelledby="{{ speaker.name }}Modal" aria-hidden="true" role="dialog">
   <h2 id="modalTitle">{{ speaker.name }} {{ speaker.surname }}</h2>
   <br /> <br />
   <h6> Abstract </h6>
