@@ -30,18 +30,18 @@
   
 - title: Sponsors
   url: "/sponsors/"
-  side: right
+  side: left
 
 - title: Dates
   url: "/#dates"
-  side: right
+  side: left
 
 - title: Registration
   url: "/registration/"
-  side: right
+  side: left
 
 - title: Organization
   url: "/organization/"
-  side: right
+  side: left
 
 
