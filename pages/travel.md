@@ -59,6 +59,9 @@ Located in scenic Western Massachusetts, Amherst is conveniently accessible by a
 ### Places to Stay
 <br />
 <br />
+AKBC has reserved blocks of room at Hotel UMass, The Inn on Boltwood, the Allen House Inn, Courtyard by Marriott and the Holiday Inn Express. Please mention AKBC by name to get access to these rooms.
+
+<br />
 
 <div class="row">
 <div class="large-4 columns">
@@ -73,9 +76,9 @@ Inn on Boltwood</a> </b> <br> The Inn on Boltwood is a historic hotel <br>  loca
 <div class="large-4 columns" markdown="1">
 ##### Other hotels
 
-* [The Black Walnut Inn](http://www.blackwalnutinn.com/)
 * [Allen House Inn](http://www.allenhouse.com/)
-* [The Hotel Northampton](http://www.hotelnorthampton.com/)
 * [Courtyard by Marriott Hadley Amherst](https://www.marriott.com/hotels/travel/bdlhd-courtyard-hadley-amherst/)
 * [Holiday Inn Express](https://www.ihg.com/holidayinnexpress/hotels/us/en/hadley/hdlma/hoteldetail)
+* [The Hotel Northampton](http://www.hotelnorthampton.com/)
+* [The Black Walnut Inn](http://www.blackwalnutinn.com/)
 </div>
