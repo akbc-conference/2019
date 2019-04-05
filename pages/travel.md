@@ -59,7 +59,7 @@ Located in scenic Western Massachusetts, Amherst is conveniently accessible by a
 ### Places to Stay
 <br />
 <br />
-AKBC has reserved blocks of room at Hotel UMass, The Inn on Boltwood, the Allen House Inn, Courtyard by Marriott and the Holiday Inn Express. Please mention AKBC by name to get access to these rooms.
+AKBC has reserved blocks of room at Hotel UMass, The Inn on Boltwood, the Allen House Inn, Courtyard by Marriott and the Holiday Inn Express. Please book by April 21st and mention AKBC by name to get access to these rooms.
 
 <br />
 
