@@ -138,8 +138,10 @@ Snorkel is being used by scientists in areas including genomics and drug repurpo
   name: "Claudia"
   surname: "Wagner"
   title: "Leibniz Institute for Social Sciences"
-  talktitle: "Gender Bias and Sexism in Language"
-  abstract: "TBA"
+  talktitle: Gathering Knowledge from User Generated Content
+  abstract: "User generated content from platforms like Wikipedia or Twitter is frequently used to extract knowledge about entities and their relationships, topics and their prevalence, as well as about psychological and sociological constructs such as emotions, attitudes, opinions or prejudices.
+When extracting knowledge about theoretical constructs from user generated content two problems need to be considered: 1) the corpus from which we extract knowledge is often biased and 2) the method that is used to extract knowledge may not be valid with regard to the construct.
+In this talk I will connect these error sources with well-known errors  from survey research which has a long history of identifying and analyzing the various errors that occur in the statistical measurement of collective behavior, attitudes and knowledge and reflect on potential solutions."
   bio: "Claudia Wagner is an assistant professor in Computer Science at University Koblenz-Landau and the interim Scientific Director of the department Computational Social Science at GESIS - Leibniz Institute for the Social Sciences. Wagner received her PhD from Graz University of Technology in 2013, before she joined GESIS as postdoctoral researcher (2013-2016). Prior to that she conducted several international research internships, among others at HP labs, Xerox PARC  and the Open University. To date, she has been awarded substantial research funding either as a PI or co-PI, was awarded with a DOC-fFORTE fellowship from the Austrian Academy of Sciences and received best paper awards (at ESWC 2010, SocialCom 2012, ICWSM 2014 and WebSci 2015). Her research focuses on computational methods and models for analyzing social issues (e.g. gender inequality, sexism) and social phenomena (e.g. collective attention, culture) using digital trace data."
   thumbnailUrl: claudia_wagner.cropped.jpeg
   speaker: true
