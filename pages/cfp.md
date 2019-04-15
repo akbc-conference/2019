@@ -13,7 +13,7 @@ Submissions to AKBC 2019 limited to 15 pages of content, and may contain unlimit
 
 We will follow a double-blind review process, and thus the submissions should not have any identifiable information about the authors. This includes not only the authors on the first page, but also any other information that betrays the identity, such as using first person pronouns when self-citing, URLs that include name of the authors/organization, etc. These restrictions apply to the appendices as well.
 
-All submissions must be formatted with LaTeX using the following LaTeX source: [akbc-latex.zip](http://www.akbc.ws/2019/akbc-latex.zip)
+All submissions must be formatted with LaTeX using the following LaTeX source: [akbc-latex.zip](https://github.com/akbc-conference/style-files/blob/master/akbc-latex.zip?raw=true)
 
 For submission, do not include the `\finalcopy` flag. Submissions with the default JAIR format will also be acceptable, as long as author identity is omitted.
 
@@ -55,6 +55,6 @@ Topics of interest include, but are not limited to:
 
 
 Authors of accepted papers will have the option for their conference paper to be archival (with full text in AKBC Proceedings, and be considered for best paper awards) or non-archival (listed in AKBC Conference schedule, with full text in OpenReview, and the flexibility to also submit elsewhere).  Double-blind reviewing will be performed on the OpenReview platform, with papers, reviews and comments publicly visible, much like ICLR 2018.
-Papers should be submitted in JAIR format (which is single-column), restricted to 15 pages excluding references (the equivalent of about 8 pages double column).  Submission site: [http://www.akbc.ws/2019/submission.html](../submission.html)
+Papers should be submitted in JAIR format (which is single-column), restricted to 15 pages excluding references (the equivalent of about 8 pages double column).  Submission site: [https://openreview.net/group?id=AKBC.ws/2019/Conference].
 
 Dual Submission Policy: Submissions that are identical (or substantially similar) to versions that have been previously published, or accepted for publication, are not allowed and violate our dual submission policy.  However, papers that cite previous related work by the authors and papers that have appeared on non-peered reviewed websites (like arXiv) or that have been presented at workshops (i.e., venues that do not have publication proceedings) do not violate the policy. The policy is enforced during the whole reviewing process period.
