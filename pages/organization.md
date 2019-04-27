@@ -22,6 +22,8 @@ Local Co-chair, [Ari Kobren](https://akobre01.github.io/), University of Massach
 
 Local Co-chair, [Nicholas Monath](https://people.cs.umass.edu/~nmonath/), University of Massachusetts Amherst, USA
 
+Website Chair, [Neha Nayak](https://nayakneha.github.io/), University of Massachusetts Amherst, USA
+
 <br />
 
 
