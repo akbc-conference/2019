@@ -14,6 +14,8 @@
     url: "/schedule/"
   - title: "Accepted papers"
     url: "https://openreview.net/group?id=AKBC.ws/2019/Conference"
+  - title: "Awards"
+    url: "/awards/"
   - title: Call for papers
     url: "/cfp/"
 

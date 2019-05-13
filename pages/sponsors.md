@@ -16,6 +16,7 @@ AKBC 2019 gratefully recognizes our generous sponsors!
 ### Silver Sponsors
 <img style="display:inline" src="{{ site.baseurl }}/images/sponsors/diffbot-logo-new.png" alt="Diffbot" style="width: 30%">
 <img style="display:inline" src="{{ site.baseurl }}/images/sponsors/oracle-logo-new.png" alt="Oracle Corporation" style="width: 30%">
+<img style="display:inline" src="{{ site.baseurl }}/images/sponsors/nec-logo-new.png" alt="NEC" style="width: 60%">
 
 ### Bronze Sponsors
 <img style="display:inline" src="{{ site.baseurl }}/images/sponsors/elsevier-logo-new.png" alt="Elsevier" style="width: 30%">
