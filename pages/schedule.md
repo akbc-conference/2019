@@ -17,7 +17,7 @@ header:
 | 9:50     	| 10:25    	| Invited Talk                  	| [Guy van den Broeck]({{ url }}/speakers/#guy-van-den-broeck): *Towards Querying Probabilistic Knowledge Bases* 	|
 | 10:25    	| 11:00    	| Spotlights Session 1 	            |                    	|
 | 11:00    	| 11:20    	| *Break*                           	|                    	|
-| 11:20    	| 11:55    	| Invited Talk                  	| [Waleed   mar]({{ url }}/speakers/#waleed-ammar): *Taming the scientific literature: progress and challenges*       	|
+| 11:20    	| 11:55    	| Invited Talk                  	| [Waleed Ammar]({{ url }}/speakers/#waleed-ammar): *Taming the scientific literature: progress and challenges*       	|
 | 11:55    	| 12:30    	| Invited Talk                  	| [Danqi Chen]({{ url }}/speakers/#danqi-chen): *TBA*         	|
 | 12:30    	| 2:00     	| *Lunch*                           	|                    	|
 | 2:00     	| 2:35     	| Invited Talk                  	| -                   	|
