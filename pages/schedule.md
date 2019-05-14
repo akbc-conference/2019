@@ -25,7 +25,7 @@ header:
 | 3:10     	| 3:45     	| Spotlights Session 2 	            |                    	|
 | 3:45     	| 4:00     	| *Break*                           	|                    	|
 | 4:00     	| 4:35     	| Invited Talk 7                  	| [Chris Welty]({{ url }}/speakers/#chris-welty): *The role of KR in AKBC*        	|
-| 4:35     	| 5:10     	| Invited Talk 8                  	| [Laura Dietz]({{ url }}/speakers/#laura-dietz): *Utilizing Knowledge Bases for Text Retrieval: A Wishlist *        	|
+| 4:35     	| 5:10     	| Invited Talk 8                  	| [Laura Dietz]({{ url }}/speakers/#laura-dietz): *Utilizing Knowledge Bases for Text Retrieval: A Wishlist*        	|
 | 5:10     	| 5:45     	| Spotlights Session 3           	|                    	|
 | 6:00     	| 8:30     	| *Posters*                         	| *small bites provided*             	|
 | 8:30     	|          	| *Buses to hotels*                 	|                    	|
