@@ -20,7 +20,7 @@ header:
 | 11:20    	| 11:55    	| Invited Talk                  	| [Waleed Ammar]({{ url }}/speakers/#waleed-ammar): *Taming the scientific literature: progress and challenges*       	|
 | 11:55    	| 12:30    	| Invited Talk                  	| [Danqi Chen]({{ url }}/speakers/#danqi-chen): *TBA*         	|
 | 12:30    	| 2:00     	| *Lunch*                           	|                    	|
-| 2:00     	| 2:35     	| Invited Talk                  	| -                   	|
+| 2:00     	| 2:35     	| Invited Talk                  	| [Xiao Ling]({{ url }}/speakers/#xiao-ling): *Knowledge Base Construction at Siri*    	|
 | 2:35     	| 3:10     	| Invited Talk                  	| [Alexandria Meliou]({{ url }}/speakers/#alexandra-meliou): *Finding the Right Web Sources to Fill Knowledge Gaps*  	|
 | 3:10     	| 3:45     	| Spotlights Session 2 	            |                    	|
 | 3:45     	| 4:00     	| *Break*                           	|                    	|
