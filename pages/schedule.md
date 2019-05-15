@@ -3,7 +3,7 @@ title: Schedule
 layout: page-fullwidth
 permalink: /schedule/
 header:
-image_fullwidth: "amherst_sky.jpg"
+    image_fullwidth: "amherst_sky.jpg"
 ---
 
 {% assign url = site.baseurl | prepend: site.url %}
