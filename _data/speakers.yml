@@ -15,7 +15,7 @@
   name: "Danqi"
   surname: "Chen"
   title: "Stanford, Princeton"
-  talktitle: "TBA"
+  talktitle: "How Good are Machine Reading Systems Today?"
   abstract: "TBA"
   bio: "Danqi Chen is currently a visiting research scientist at Facebook AI Research (FAIR) and will be joining Princeton University as an assistant professor in Fall 2019. She graduated from Stanford University recently, where she was working with Christopher Manning on deep learning approaches to natural language processing. Her research centers on how computers can achieve a deep understanding of human language and the information it contains. Danqi received Outstanding Paper Awards at ACL 2016 and EMNLP 2017, a Facebook Fellowship, a Microsoft Research Women’s Fellowship."
   thumbnailUrl: danqi.cropped.jpeg
