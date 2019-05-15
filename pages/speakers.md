@@ -21,7 +21,7 @@ header:
 #### {{ speaker.title }}
 <br />
 _{{ speaker.talktitle }}_ <br />
-<a href="" data-reveal-id="{{ speaker.name }}{{ speaker.surname }}Modal"> Abstract and Bio </a> &nbsp;
+<a href="" data-reveal-id="{{ speaker.name }}{{ speaker.surname | replace: ' ', '_' }}Modal"> Abstract and Bio </a> &nbsp;
 </div>
 
 <div class="large-1 columns"></div>
@@ -36,7 +36,7 @@ _{{ speaker.talktitle }}_ <br />
 
 
 <!-- Modal -->
-<div id="{{ speaker.name }}{{ speaker.surname }}Modal" class="reveal-modal large" data-reveal aria-labelledby="{{ speaker.name }}Modal" aria-hidden="true" role="dialog">
+<div id="{{ speaker.name }}{{ speaker.surname | replace: ' ', '_' }}Modal" class="reveal-modal large" data-reveal aria-labelledby="{{ speaker.name }}Modal" aria-hidden="true" role="dialog">
   <h2 id="modalTitle">{{ speaker.name }} {{ speaker.surname }}</h2>
   <br /> <br />
   <h6> Abstract </h6>
