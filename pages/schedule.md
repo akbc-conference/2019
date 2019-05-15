@@ -55,7 +55,8 @@ image_fullwidth: "amherst_sky.jpg"
 
 <!-- Modal -->
 <div id="Spotlight1Modal" class="reveal-modal large" data-reveal aria-labelledby="Spotlight1Modal" aria-hidden="true" role="dialog">
-  <h2 id="modalTitle">Session 1: May 20, 10:25 - 11:00</h2>
+  <h2 id="modalTitle">Session 1</h2>
+  <h3>May 20, 10:25 - 11:00</h3>
   <ul>
 <li><i>Daniel Oñoro-Rubio, Mathias Niepert, Alberto García-Durán, Roberto González-Sánchez, Roberto J. López-Sastre</i><br>
   Answering Visual-Relational Queries in Web-Extracted Knowledge Graphs</li>
@@ -87,7 +88,8 @@ Discriminative Candidate Generation for Medical Concept Linking</li>
 
 
 <div id="Spotlight2Modal" class="reveal-modal large" data-reveal aria-labelledby="Spotlight2Modal" aria-hidden="true" role="dialog">
-  <h2 id="modalTitle">Session 2: May 20, 3:10 - 3:45</h2>
+  <h2 id="modalTitle">Session 2</h2>
+  <h3>May 20, 3:10 - 3:45</h3>
   <ul>
 <li><i>Christoph Alt, Marc Hübner, Leonhard Hennig</i><br>
 Improving Relation Extraction by Pre-trained Language Representations</li>
@@ -121,7 +123,8 @@ OPIEC: An Open Information Extraction Corpus</li>
 
 
 <div id="Spotlight3Modal" class="reveal-modal large" data-reveal aria-labelledby="Spotlight3Modal" aria-hidden="true" role="dialog">
-  <h2 id="modalTitle">Session 3: May 20, 5:10 - 5:45</h2>
+  <h2 id="modalTitle">Session 3</h2>
+  <h3>May 20, 5:10 - 5:45</h3>
   <ul>
 <li><i>Satoshi Sekine, Akio Kobayashi, Kouta Nakayama</i><br>
 SHINRA: Structuring Wikipedia by Collaborative Contribution</li>
