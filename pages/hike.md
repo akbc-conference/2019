@@ -20,7 +20,7 @@ header:
 |	 4:00pm	|Bus leaves trailhead, traveling to banquet at: **Quonquont Farm, 9 North St, Whately, MA 01093**|
 |	5:00pm	|Drinks and appetizers at Quonquont Farm|
 |	6:00pm	|Banquet Dinner at Quonquont Farm|
-|	7:00pm	|Invited talk at banquet by Fernando Pereira (Google)|
+|	7:00pm	|Invited talk at banquet by [Fernando Pereira (Google)]({{ url }}/speakers/#fernando-pereira)|
 |	7:30pm	|Dessert|
 |	8:30pm	|Bus leaves Quonquont Farm, traveling back to UMass and hotels.|
 |	~9:00pm	|Arrive back at campus and hotels.|

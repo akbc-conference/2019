@@ -42,7 +42,7 @@ header:
 | 11:15    	| 11:50    	| Invited Talk      	| [Hoifung Poon]({{ url }}/speakers/#hoifung-poon): *{{ site.data.speakers[8].talktitle }}*     	|
 | 11:50    	| 12:00    	| Closing remarks    	|                  	|
 | 12:00    	| 1:00     	| *Lunch*              	|                  	|
-| 1:00     	| 2:00     	| *Travel to Hike*     	|                  	|
+| 1:00     	| 2:00     	| *Travel to Hike*     	| [Hiking Info]({{ url }}/hike)                 	|
 | 2:00     	| 4:00     	| *Hike*               	|                  	|
 | 4:00     	| 5:00     	| *Travel to Dinner*   	|                  	|
 | 5:00     	| 8:30     	| *Drinks and Dinner*   |                  	|
