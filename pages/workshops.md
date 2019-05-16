@@ -6,6 +6,8 @@ header:
     image_fullwidth: "amherst_sky.jpg"
 ---
 
+### May 22, Day 3
+
 #### Morning
 * [Knowledge Bases and Multiple Modalities](https://kb-mm.github.io/)
 * [Scientific Literature Knowledge Bases](https://sites.google.com/view/akbc-sci/home)

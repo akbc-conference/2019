@@ -3,7 +3,7 @@
   side: left
 
 - title: "Program"
-  url: "/speakers/"
+  url: "/schedule/"
   side: left
   dropdown:
   - title: "Speakers"

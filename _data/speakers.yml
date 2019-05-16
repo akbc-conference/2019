@@ -5,7 +5,7 @@
   uniqid: "wammar"
   title: "AI2"
   talktitle: "Taming the scientific literature: progress and challenges"
-  abstract: "TBA"
+  abstract: "Scientific advances are at the heart of many technologies and prosperous economies. However, the overwhelming growth in scientific literature proved to be a challenge for researchers trying to find related work, stay up to date or do systematic reviews. In this talk, I discuss recent work on analyzing scientific documents to extract meaningful structures and establish connections between different artifacts in the literature. The extracted structures and identified connections combine to build a knowledge graph, thereby enabling researchers to navigate and query the literature more effectively. The constructed knowledge graph can also help address some of the controversial questions about the literature related to, e.g., demographic bias, pre-publishing and team size. I conclude with some of the outstanding challenges and opportunities in this area of research, e.g., document-level salience, result aggregation and impact prediction."
   bio: "Waleed Ammar is a senior research scientist at the Allen Institute for Artificial Intelligence (AI2). He is interested in developing NLP models with practical applications, especially in the scientific and medical domains. Before joining AI2, Waleed developed morphology models for machine translation with Microsoft Research, and developed semi-supervised and cross-lingual models for low resource languages while pursuing his PhD at Carnegie Mellon University. He co-hosts the NLP highlights podcast which interviews NLP researchers and discusses recent developments in the field. "
   thumbnailUrl: waleed.jpg
   speaker: true
@@ -17,7 +17,7 @@
   surname: "Chen"
   uniqid: "dchen"
   title: "Stanford, Princeton"
-  talktitle: "TBA"
+  talktitle: "How Good are Machine Reading Systems Today?"
   abstract: "TBA"
   bio: "Danqi Chen is currently a visiting research scientist at Facebook AI Research (FAIR) and will be joining Princeton University as an assistant professor in Fall 2019. She graduated from Stanford University recently, where she was working with Christopher Manning on deep learning approaches to natural language processing. Her research centers on how computers can achieve a deep understanding of human language and the information it contains. Danqi received Outstanding Paper Awards at ACL 2016 and EMNLP 2017, a Facebook Fellowship, a Microsoft Research Women’s Fellowship."
   thumbnailUrl: danqi.cropped.jpeg
@@ -65,6 +65,18 @@
     - {name: "site", link: "https://getoor.soe.ucsc.edu/home"}
 -
   id: 6
+  name: "Xiao"
+  surname: "Ling"
+  title: "Apple"
+  talktitle: "Knowledge Base Construction at Siri"
+  abstract: "TBA"
+  bio: "Xiao Ling is an engineering manager at Apple Siri Knowledge, where he leads the knowledge base construction effort. He received his PhD in Computer Science and Engineering from the University of Washington in 2015. His work focuses on Information Extraction, Natural Language Processing and Machine Learning. He was an early engineer at Lattice Data Inc., which was acquired by Apple in 2017."
+  thumbnailUrl: xiao.jpg
+  speaker: true
+  social:
+    - {name: "site",   link: "http://xiaoling.github.io/"}
+-
+  id: 7
   name: "Alexandra"
   surname: "Meliou"
   uniqid: "ameliou"
@@ -77,7 +89,7 @@
   social:
     - {name: "site", link: "https://people.cs.umass.edu/~ameli/"}
 -
-  id: 7
+  id: 8
   name: "Fernando"
   surname: "Pereira"
   uniqid: "fpereira"
@@ -90,7 +102,7 @@
   social:
     - {name: "site",   link: "https://ai.google/research/people/author1092"}
 -
-  id: 8
+  id: 9
   name: "Hoifung"
   surname: "Poon"
   uniqid: "hpoon"
