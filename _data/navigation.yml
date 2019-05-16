@@ -6,14 +6,16 @@
   url: "/schedule/"
   side: left
   dropdown:
+  - title: "Schedule"
+    url: "/schedule/"
   - title: "Speakers"
     url: "/speakers/"
   - title: "Workshops"
     url: "/workshops/"
-  - title: "Schedule"
-    url: "/schedule/"
   - title: "Accepted papers"
     url: "https://openreview.net/group?id=AKBC.ws/2019/Conference"
+  - title: "Hike Information"
+    url: "/hike/"
   - title: "Awards"
     url: "/awards/"
   - title: Call for papers
