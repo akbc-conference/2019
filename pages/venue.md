@@ -69,6 +69,12 @@ Amherst Massachusetts 01003 <br>
 
 <br /> <br /> 
 
+### Poster Printing Options
+
+- [Amherst Copy & Designworks](https://amherstcopy.com/): walking distance from the UMass campus
+- [Staples](https://stores.staples.com/ma/hadley/125-westgate-center-drive)
+- [Sunraise Printing](https://www.sunraiseprinting.com/)
+
 ### Local Attractions
 
 <div id="attraction_images">
