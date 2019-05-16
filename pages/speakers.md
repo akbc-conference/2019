@@ -21,7 +21,7 @@ header:
 #### {{ speaker.title }}
 <br />
 _{{ speaker.talktitle }}_ <br />
-<a href="" data-reveal-id="{{ speaker.name }}{{ speaker.surname | replace: ' ', '_' }}Modal"> Abstract and Bio </a> &nbsp;
+<a href="#" data-reveal-id="{{ speaker.name }}{{ speaker.surname | replace: ' ', '_' }}Modal"> Abstract and Bio </a> &nbsp;
 </div>
 
 <div class="large-1 columns"></div>
