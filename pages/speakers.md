@@ -7,7 +7,7 @@ header:
 ---
 
 {% for speaker in site.data.speakers %}
-
+{% unless speaker.speaker == false %}
 <div class="row">
 <div class="large-1 columns"> <br /> </div>
 <div class="small-4 large-3 columns">
@@ -29,6 +29,7 @@ _{{ speaker.talktitle }}_ <br />
 
 
 
+{% endunless %}
 {% endfor %}
 
 
