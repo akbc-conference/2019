@@ -2,6 +2,7 @@
   id: 1
   name: "Waleed"
   surname: "Ammar"
+  uniqid: "wammar"
   title: "AI2"
   talktitle: "Taming the scientific literature: progress and challenges"
   abstract: "TBA"
@@ -14,6 +15,7 @@
   id: 2
   name: "Danqi"
   surname: "Chen"
+  uniqid: "dchen"
   title: "Stanford, Princeton"
   talktitle: "TBA"
   abstract: "TBA"
@@ -26,6 +28,7 @@
   id: 3
   name: "Yejin"
   surname: "Choi"
+  uniqid: "ychoi"
   title: "UW, AI2"
   talktitle: "ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning"
   abstract: "TBA"
@@ -38,6 +41,7 @@
   id: 4
   name: "Laura"
   surname: "Dietz"
+  uniqid: "ldietz"
   title: "UNH"
   talktitle: "Utilizing Knowledge Bases for Text Retrieval: A Wishlist"
   abstract: "The development of knowledge graph construction methods and the availability of large general-purpose knowlegde graphs (KGs) have led to several advances in information retrieval (IR). For example, entity linking and KGs provide additional useful information about text and search queries, giving rise to more accurate models of relevance. This KG-enabled retrieval approach sets a new standard for several IR benchmarks. However, the exploitation of relational information in IR proves difficult for various reasons, such as low extraction recall, sparsity of schemas, and biases in the extraction pipeline. This talk discusses use cases and necessary conditions for successfully applying AKBC technology in IR. The talk entails a wishlist towards AKBC researchers for widening the impact of knowlegde base construction methods in information retrieval."
@@ -50,6 +54,7 @@
   id: 5
   name: "Lise"
   surname: "Getoor"
+  uniqid: "lgetoor"
   title: "UCSC"
   talktitle: "Scalably Integrating Statistics and Semantics for Knowledge Graph Construction"
   abstract: "TBA"
@@ -62,6 +67,7 @@
   id: 6
   name: "Alexandra"
   surname: "Meliou"
+  uniqid: "ameliou"
   title: "UMass Amherst"
   talktitle: "Finding the Right Web Sources to Fill Knowledge Gaps"
   abstract: "TBA"
@@ -74,6 +80,7 @@
   id: 7
   name: "Fernando"
   surname: "Pereira"
+  uniqid: "fpereira"
   title: "Google"
   talktitle: "Representation Learning and the Challenge of Reasoning"
   abstract: "Advances in machine learning (ML) have led to a golden age of increasingly rich models of language with large experimental gains in many language understanding tasks. In the midst of this plenty, we are also getting a better sense of where these new methods fall short. I will walk you through a collection of examples that are obvious for people but pose unsolved simple reasoning challenges to current ML methods. I will conclude with a few suggestions on how ML might be guided to learn useful reasoning patterns."
@@ -86,6 +93,7 @@
   id: 8
   name: "Hoifung"
   surname: "Poon"
+  uniqid: "hpoon"
   title: "MSR"
   talktitle: "Machine Reading for Precision Medicine"
   abstract: "The advent of big data promises to revolutionize medicine by making it more personalized and effective, but big data also presents a grand challenge of information overload. For example, tumor sequencing has become routine in cancer treatment, yet interpreting the genomic data requires painstakingly curating knowledge from a vast biomedical literature, which grows by thousands of papers every day. Electronic medical records contain valuable information for drug development and clinical trial matching, but curating such real-world data from clinical notes can take hours for a single patient. NLP can play a key role in interpreting big data for precision medicine. In particular, machine reading can help unlock knowledge from text by substantially improving curation efficiency. However, standard supervised methods require labeled examples, which are expensive and time-consuming to produce at scale. In this talk, I'll present Project Hanover, where we overcome the annotation bottleneck by combining deep learning with probabilistic logic, and by exploiting indirect supervision from readily available resources such as ontologies and databases. This enables us to extract knowledge from millions of publications, reason efficiently with the resulting knowledge graph by learning neural embeddings of biomedical entities and relations, and apply the extracted knowledge and learned embeddings to supporting precision oncology."
@@ -98,6 +106,7 @@
   id: 9
   name: "Chris"
   surname: "Ré"
+  uniqid: "cre"
   title: "Stanford, Apple"
   talktitle: "Snorkel: Beyond hand-labeled data"
   abstract: "This talk describes Snorkel, a software system whose goal is to make routine machine learning tasks dramatically easier. Snorkel focuses on a key bottleneck in the development of machine learning systems: the lack of large training datasets for a user’s task. In Snorkel, a user implicitly defines large training sets by writing simple programs that create labeled data, instead of tediously hand-labeling individual data items. In turn, this allows users to incorporate many sources of training data, some of low quality, to build high-quality models. This talk will describe how Snorkel changes the way users program machine learning models and construct knowledge bases. A key technical challenge in Snorkel is combining heuristic training data that may have uneven and unknown quality and an unknown correlation structure. This talk will explain the underlying theory, including methods to learn both the parameters and structure of generative models without labeled data. Additionally we’ll describe our recent experiences with hackathons, which suggest the Snorkel approach may allow a broader set of users to train machine learning models and do so more easily than previous approaches.
@@ -113,6 +122,7 @@ Snorkel is being used by scientists in areas including genomics and drug repurpo
   id: 10
   name: "Sebastian"
   surname: "Riedel"
+  uniqid: "sriedel"
   title: "UCL, Facebook"
   talktitle: "The Deconstruction of Automated Knowledge Base Construction"
   abstract: "TBA"
@@ -125,6 +135,7 @@ Snorkel is being used by scientists in areas including genomics and drug repurpo
   id: 11
   name: "Guy"
   surname: "Van den Broeck"
+  uniqid: "gvandenbroeck"
   title: "UCLA"
   talktitle: "Towards Querying Probabilistic Knowledge Bases"
   abstract: "TBA"
@@ -137,6 +148,7 @@ Snorkel is being used by scientists in areas including genomics and drug repurpo
   id: 12
   name: "Claudia"
   surname: "Wagner"
+  uniqid: "cwagner"
   title: "Leibniz Institute for Social Sciences"
   talktitle: Gathering Knowledge from User Generated Content
   abstract: "User generated content from platforms like Wikipedia or Twitter is frequently used to extract knowledge about entities and their relationships, topics and their prevalence, as well as about psychological and sociological constructs such as emotions, attitudes, opinions or prejudices.
@@ -151,6 +163,7 @@ In this talk I will connect these error sources with well-known errors  from sur
   id: 13
   name: "Chris"
   surname: "Welty"
+  uniqid: "cwelty"
   title: "Google"
   talktitle: "The role of KR in AKBC"
   abstract: "Automatic construction of knowledge-bases is an exciting synthesis of research in machine learning, knowledge representation, natural language processing, and recently, crowdsourcing.  Due to the ever increasing over-speciation of researchers in AI, most work in the area strongly emphasizes one of these four areas, and as a result, de-emphasizes the others.  Bringing these diverse elements together requires learning a few things from each other, which, when treated as equals, can force us to re-evaluate tacit assumptions that one field makes and another throws away.  My own journey from formal knowledge representation and ontologies thru building Watson and more recent AI systems at Google Research, led me to re-evaluate the long-held tacit assumptions of the knowledge representation field and come to a new understanding of its role in AI. "
