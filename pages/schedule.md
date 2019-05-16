@@ -27,7 +27,7 @@ header:
 | 4:00     	| 4:35     	| Invited Talk 7                  	| [Chris Welty]({{ url }}/speakers/#chris-welty): *{{ site.data.speakers[13].talktitle }}*        	|
 | 4:35     	| 5:10     	| Invited Talk 8                  	| [Laura Dietz]({{ url }}/speakers/#laura-dietz): *{{ site.data.speakers[3].talktitle }}*        	|
 | 5:10     	| 5:45     	| Spotlights Session 3           	| <a href="" data-reveal-id="Spotlight3Modal">Spotlight Papers</a>                   	|
-| 6:00     	| 8:30     	| *Posters*                         	| *small bites provided*             	|
+| 6:00     	| 8:30     	| *Posters*                         	| *with light dinner finger food*             	|
 | 8:30     	|          	| *Buses to hotels*                 	|                    	|
 
 ### May 21, Day 2
