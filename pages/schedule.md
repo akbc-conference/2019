@@ -11,6 +11,7 @@ header:
 ### May 20, Day 1
 
 |----------	|----------	|---------------------------------	|--------------------	|
+|        	|          	| *Buses from hotels*                 	| [Information]({{ url }}/travel#shuttle)                   	|
 | 8:15  	| 9:00     	| *Breakfast*                       	|                    	|
 | 9:00     	| 9:15     	| Opening Remarks                 	|                    	|
 | 9:15     	| 9:50     	| Invited Talk                  	| [Yejin Choi]({{ url }}/speakers/#yejin-choi): *{{ site.data.speakers[2].talktitle }}*         	|
@@ -28,11 +29,12 @@ header:
 | 4:35     	| 5:10     	| Invited Talk 8                  	| [Laura Dietz]({{ url }}/speakers/#laura-dietz): *{{ site.data.speakers[3].talktitle }}*        	|
 | 5:10     	| 5:45     	| Spotlights Session 3           	| <a href="" data-reveal-id="Spotlight3Modal">Spotlight Papers</a>                   	|
 | 6:00     	| 8:30     	| *Posters*                         	| *with light dinner finger food*             	|
-| 8:30     	|          	| *Buses to hotels*                 	|                    	|
+| 8:30     	|          	| *Buses to hotels*                 	| [Information]({{ url }}/travel#shuttle)                   	|
 
 ### May 21, Day 2
 
 |----------	|----------	|--------------------	|------------------	|
+|        	|          	| *Buses from hotels*                 	| [Information]({{ url }}/travel#shuttle)                   	|
 | 8:15     	| 8:30     	| *Breakfast*          	|                  	|
 | 8:30     	| 9:05     	| Invited Talk      	| [Sebastian Riedel]({{ url }}/speakers/#sebastian-riedel): *{{ site.data.speakers[10].talktitle }}* 	|
 | 9:05     	| 9:40     	| Invited Talk      	| [Claudia Wagner]({{ url }}/speakers/#claudia-wagner): *{{ site.data.speakers[12].talktitle }}*   	|
@@ -47,7 +49,7 @@ header:
 | 4:00     	| 5:00     	| *Travel to Dinner*   	|                  	|
 | 5:00     	| 8:30     	| *Drinks and Dinner*   |                  	|
 | 7:00     	| 7:45     	| Invited Talk       	| [Fernando Pereira]({{ url }}/speakers/#fernando-pereira): *{{ site.data.speakers[7].talktitle }}* 	|
-| 8:30     	|          	| *Buses to hotels*    	|                  	|
+| 8:30     	|          	| *Buses to hotels*    	|  [Information]({{ url }}/travel#shuttle)                	|
 
 ### May 22, Day 3
 
