@@ -8,20 +8,23 @@ header:
 
 {% for speaker in site.data.speakers %}
 
+<div id="{{ speaker.uniqid }}Summary"></div>
+<div class="row"><br/></div>
 <div class="row">
-<div class="large-1 columns"> <br /> </div>
-<div class="small-4 large-3 columns">
-  <img src="{{ site.baseurl }}/images/people/{{ speaker.thumbnailUrl}}"  alt="{{ speaker.name }} {{ speaker.surname }}" style="width: 300px" />
-</div>
+	<div class="large-1 columns"> <br /> </div>
+	<div class="small-4 large-3 columns">
+	  <img src="{{ site.baseurl }}/images/people/{{ speaker.thumbnailUrl}}"  alt="{{ speaker.name }} {{ speaker.surname }}" style="width: 300px" />
+	</div>
 
 <div class="small-8 large-7 columns" markdown="1">
-<a href="#{{ speaker.name }}{{ speaker.surname }}"></a>
 
 ### [{{ speaker.name }} {{ speaker.surname }}]({{ speaker.social[0].link }})
 #### {{ speaker.title }}
 <br />
 _{{ speaker.talktitle }}_ <br />
-<a href="" data-reveal-id="{{ speaker.uniqid }}Modal"> Abstract and Bio </a> &nbsp;
+
+
+<a href="#{{ speaker.uniqid }}Detail"> Abstract and Bio</a>
 </div>
 
 <div class="large-1 columns"></div>
@@ -31,22 +34,43 @@ _{{ speaker.talktitle }}_ <br />
 
 {% endfor %}
 
+<br />
+<br />
+<br />
+<h1> Speaker abstracts and bios </h1>
 
 {% for speaker in site.data.speakers %}
 
 
-<!-- Modal -->
-<div id="{{ speaker.uniqid }}Modal" class="reveal-modal large" data-reveal aria-labelledby="{{ speaker.uniqid }}Modal" aria-hidden="true" role="dialog">
-  <h2 id="modalTitle">{{ speaker.name }} {{ speaker.surname }}</h2>
-  <br /> <br />
-  <h6> Abstract </h6>
-  <i>{{ speaker.talktitle }}</i>
-  <br /> <br />
-  {{ speaker.abstract }}
-  <br /> <br /> <br />
-  <h6> Bio </h6>
-  {{ speaker.bio }}
-  <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+<div id="{{ speaker.uniqid }}Detail"></div>
+<div class="row">
+</div>
+<div class="row">
+<div class="large-1 columns"> <br />
+</div>
+<div class="small-4 large-3 columns">
+<img src="{{ site.baseurl }}/images/people/{{ speaker.thumbnailUrl}}"  alt="{{ speaker.name }} {{ speaker.surname }}" style="width: 300px" />
+</div>
+<div class="small-8 large-7 columns" markdown="1">
+
+### [{{ speaker.name }} {{ speaker.surname }}]({{ speaker.social[0].link }})
+#### {{ speaker.title }}
+</div>
+</div>
+<div class="row">
+<div class="large-1 columns"></div>
+<div class="large-8 columns" markdown="1">
+<h6> Abstract </h6>
+<i>{{ speaker.talktitle }}</i>
+<br /> <br />
+{{ speaker.abstract }}
+<br /> <br /> <br />
+<h6> Bio </h6>
+{{ speaker.bio }}
+
+<a href="#{{ speaker.uniqid }}Summary">Back</a>
+</div>
+<div class="large-1 columns"></div>
 </div>
 
 
