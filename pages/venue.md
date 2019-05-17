@@ -5,6 +5,11 @@ permalink: /venue/
 header:
     image_fullwidth: "amherst_sky.jpg"
 ---
+
+
+**NEW**: Links to poster printing services in Amherst can be found [here](#posters).
+
+
 <div class="row">
 <div class="large-2 columns"> <br /> </div>
 <div class="small-6 large-4 columns">
@@ -67,13 +72,19 @@ Amherst Massachusetts 01003 <br>
 </figure3>
 </div>
 
-<br /> <br /> 
+<br />
 
+<a name="posters"></a>
+
+<br /> <br /> 
 ### Poster Printing Options
 
 - [Amherst Copy & Designworks](https://amherstcopy.com/): walking distance from the UMass campus
 - [Staples](https://stores.staples.com/ma/hadley/125-westgate-center-drive)
 - [Sunraise Printing](https://www.sunraiseprinting.com/)
+
+
+<br /> <br /> 
 
 ### Local Attractions
 
