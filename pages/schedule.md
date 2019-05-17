@@ -21,7 +21,7 @@ header:
 | 11:55    	| 12:30    	| Invited Talk                  	| [Danqi Chen]({{ url }}/speakers/#danqi-chen): *{{ site.data.speakers[1].talktitle }}*         	|
 | 12:30    	| 2:00     	| *Lunch*                           	|                    	|
 | 2:00     	| 2:35     	| Invited Talk                  	| [Xiao Ling]({{ url }}/speakers/#xiao-ling): *{{ site.data.speakers[5].talktitle }}*    	|
-| 2:35     	| 3:10     	| Invited Talk                  	| [Alexandria Meliou]({{ url }}/speakers/#alexandra-meliou): *{{ site.data.speakers[6].talktitle }}*  	|
+| 2:35     	| 3:10     	| Invited Talk                  	| [Alexandra Meliou]({{ url }}/speakers/#alexandra-meliou): *{{ site.data.speakers[6].talktitle }}*  	|
 | 3:10     	| 3:45     	| Spotlights Session 2 	            | <a href="" data-reveal-id="Spotlight2Modal">Spotlight Papers</a>                   	|
 | 3:45     	| 4:00     	| *Break*                           	|                    	|
 | 4:00     	| 4:35     	| Invited Talk 7                  	| [Chris Welty]({{ url }}/speakers/#chris-welty): *{{ site.data.speakers[13].talktitle }}*        	|
