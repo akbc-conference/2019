@@ -6,7 +6,6 @@ header:
 
 ---
 #### May 20-22 2019
-_Early registration ends April 5!_
 
 
 ## Knowledge Base Construction
