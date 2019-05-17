@@ -13,40 +13,40 @@ header:
 |----------	|----------	|---------------------------------	|--------------------	|
 | 8:15  	| 9:00     	| *Breakfast*                       	|                    	|
 | 9:00     	| 9:15     	| Opening Remarks                 	|                    	|
-| 9:15     	| 9:50     	| Invited Talk                  	| [Yejin Choi]({{ url }}/speakers/#yejin-choi): *ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning*         	|
-| 9:50     	| 10:25    	| Invited Talk                  	| [Guy van den Broeck]({{ url }}/speakers/#guy-van-den-broeck): *Towards Querying Probabilistic Knowledge Bases* 	|
+| 9:15     	| 9:50     	| Invited Talk                  	| [Yejin Choi]({{ url }}/speakers/#yejin-choi): *{{ site.data.speakers[2].talktitle }}*         	|
+| 9:50     	| 10:25    	| Invited Talk                  	| [Guy van den Broeck]({{ url }}/speakers/#guy-van-den-broeck): *{{ site.data.speakers[11].talktitle }}* 	|
 | 10:25    	| 11:00    	| Spotlights Session 1 	            | <a href="" data-reveal-id="Spotlight1Modal">Spotlight Papers</a>                   	|
 | 11:00    	| 11:20    	| *Break*                           	|                    	|
-| 11:20    	| 11:55    	| Invited Talk                  	| [Waleed Ammar]({{ url }}/speakers/#waleed-ammar): *Taming the scientific literature: progress and challenges*       	|
-| 11:55    	| 12:30    	| Invited Talk                  	| [Danqi Chen]({{ url }}/speakers/#danqi-chen): *How Good are Machine Reading Systems Today?*         	|
+| 11:20    	| 11:55    	| Invited Talk                  	| [Waleed Ammar]({{ url }}/speakers/#waleed-ammar): *{{ site.data.speakers[0].talktitle }}*       	|
+| 11:55    	| 12:30    	| Invited Talk                  	| [Danqi Chen]({{ url }}/speakers/#danqi-chen): *{{ site.data.speakers[1].talktitle }}*         	|
 | 12:30    	| 2:00     	| *Lunch*                           	|                    	|
-| 2:00     	| 2:35     	| Invited Talk                  	| [Xiao Ling]({{ url }}/speakers/#xiao-ling): *Knowledge Base Construction at Siri*    	|
-| 2:35     	| 3:10     	| Invited Talk                  	| [Alexandria Meliou]({{ url }}/speakers/#alexandra-meliou): *Finding the Right Web Sources to Fill Knowledge Gaps*  	|
+| 2:00     	| 2:35     	| Invited Talk                  	| [Xiao Ling]({{ url }}/speakers/#xiao-ling): *{{ site.data.speakers[5].talktitle }}*    	|
+| 2:35     	| 3:10     	| Invited Talk                  	| [Alexandria Meliou]({{ url }}/speakers/#alexandra-meliou): *{{ site.data.speakers[6].talktitle }}*  	|
 | 3:10     	| 3:45     	| Spotlights Session 2 	            | <a href="" data-reveal-id="Spotlight2Modal">Spotlight Papers</a>                   	|
 | 3:45     	| 4:00     	| *Break*                           	|                    	|
-| 4:00     	| 4:35     	| Invited Talk 7                  	| [Chris Welty]({{ url }}/speakers/#chris-welty): *The role of KR in AKBC*        	|
-| 4:35     	| 5:10     	| Invited Talk 8                  	| [Laura Dietz]({{ url }}/speakers/#laura-dietz): *Utilizing Knowledge Bases for Text Retrieval: A Wishlist*        	|
+| 4:00     	| 4:35     	| Invited Talk 7                  	| [Chris Welty]({{ url }}/speakers/#chris-welty): *{{ site.data.speakers[13].talktitle }}*        	|
+| 4:35     	| 5:10     	| Invited Talk 8                  	| [Laura Dietz]({{ url }}/speakers/#laura-dietz): *{{ site.data.speakers[3].talktitle }}*        	|
 | 5:10     	| 5:45     	| Spotlights Session 3           	| <a href="" data-reveal-id="Spotlight3Modal">Spotlight Papers</a>                   	|
-| 6:00     	| 8:30     	| *Posters*                         	| *small bites provided*             	|
+| 6:00     	| 8:30     	| *Posters*                         	| *with light dinner finger food*             	|
 | 8:30     	|          	| *Buses to hotels*                 	|                    	|
 
 ### May 21, Day 2
 
 |----------	|----------	|--------------------	|------------------	|
 | 8:15     	| 8:30     	| *Breakfast*          	|                  	|
-| 8:30     	| 9:05     	| Invited Talk      	| [Sebastian Riedel]({{ url }}/speakers/#sebastian-riedel): *The Deconstruction of Automated Knowledge Base Construction* 	|
-| 9:05     	| 9:40     	| Invited Talk      	| [Claudia Wagner]({{ url }}/speakers/#claudia-wagner): *Gathering Knowledge from User Generated Content*   	|
-| 9:40     	| 10:15    	| Invited Talk       	| [Lise Getoor]({{ url }}/speakers/#lise-getoor): *Scalably Integrating Statistics and Semantics for Knowledge Graph Construction*      	|
+| 8:30     	| 9:05     	| Invited Talk      	| [Sebastian Riedel]({{ url }}/speakers/#sebastian-riedel): *{{ site.data.speakers[10].talktitle }}* 	|
+| 9:05     	| 9:40     	| Invited Talk      	| [Claudia Wagner]({{ url }}/speakers/#claudia-wagner): *{{ site.data.speakers[12].talktitle }}*   	|
+| 9:40     	| 10:15    	| Invited Talk       	| [Lise Getoor]({{ url }}/speakers/#lise-getoor): *{{ site.data.speakers[4].talktitle }}*      	|
 | 10:15    	| 10:30    	| *Break*              	|                  	|
 | 10:30    	| 11:15    	| Best Paper Session 	| [Best Paper Awards]({{ url }}/awards)                 	|
-| 11:15    	| 11:50    	| Invited Talk      	| [Hoifung Poon]({{ url }}/speakers/#hoifung-poon): *Machine Reading for Precision Medicine*     	|
+| 11:15    	| 11:50    	| Invited Talk      	| [Hoifung Poon]({{ url }}/speakers/#hoifung-poon): *{{ site.data.speakers[8].talktitle }}*     	|
 | 11:50    	| 12:00    	| Closing remarks    	|                  	|
 | 12:00    	| 1:00     	| *Lunch*              	|                  	|
-| 1:00     	| 2:00     	| *Travel to Hike*     	|                  	|
+| 1:00     	| 2:00     	| *Travel to Hike*     	| [Hiking Info]({{ url }}/hike)                 	|
 | 2:00     	| 4:00     	| *Hike*               	|                  	|
 | 4:00     	| 5:00     	| *Travel to Dinner*   	|                  	|
 | 5:00     	| 8:30     	| *Drinks and Dinner*   |                  	|
-| 7:00     	| 7:45     	| Invited Talk       	| [Fernando Pereira]({{ url }}/speakers/#fernando-pereira): *Representation Learning and the Challenge of Reasoning* 	|
+| 7:00     	| 7:45     	| Invited Talk       	| [Fernando Pereira]({{ url }}/speakers/#fernando-pereira): *{{ site.data.speakers[7].talktitle }}* 	|
 | 8:30     	|          	| *Buses to hotels*    	|                  	|
 
 ### May 22, Day 3
