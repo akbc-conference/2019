@@ -109,7 +109,52 @@ If you fly in to **Hartford Bradley Airport** there are limited choices for gett
 * Uber.  A round trip Uber ride from Bradley Airport to Amherst can cost around $100.
 
 
-### Local hotels to/from UMass campus
-* AKBC has arranged for a free UMass bus that will pick people up at a predetermined time every morning and deliver you to the University of Massachusetts Campus.  It will also return you to the hotel at the end of the day. If you would like to sign up for the hotel shuttle bus, please complete this survey with information about which hotel you will be staying at during AKBC: &nbsp; [Survey](https://docs.google.com/forms/d/e/1FAIpQLScTABenTVI8vSxWMIlRlPQ0dunyII1hIy-jKfvy14vqv4nroA/viewform)
-* When you are in the Amherst area the local PVTA bus system makes regular stops at the UMass campus: &nbsp; [Schedules](http://www.pvta.com/mobile/schedules.php)
-</div>
+<a name="shuttle"></a>
+<br/>
+<br/>
+<div class="row" markdown="1">
+### Shuttle Service to/from UMass campus
+<br/>	
+
+AKBC has arranged for free shuttle service from area hotels to the AKBC conference on the UMass campus.  
+A UMass bus will pick up attendees on a set schedule every morning and drop off at  UMass.  
+There will also be a return shuttle to area hotels at the end of the day.  
+We will begin pick up at approximately 7:20 A.M. on Monday and 7:30 A.M. on Tuesday and Wednesday.   
+Pick up schedule times may vary due to traffic/road work.  
+It would be best to be outside at least ten minutes before the shuttle arrival time.  
+
+Monday morning shuttle pickup schedule: 
+Holiday Inn Express & Suites Hadley                7:20 A.M. Location: Outside of covered entrance of Main Lobby door
+Econo Lodge Hadley                                            7:30 A.M. Location: Outside of covered entrance of Main Lobby door
+Howard Johnson Hadley                                     7:40 A.M. Location: Outside of covered entrance of Main Lobby door
+Courtyard by Marriott Hadley             	 7:50 A.M. Location: Outside of covered entrance of Main Lobby door
+Inn on Boltwood Amherst                                   8:00  A.M. Location:  Outside of the Main Lobby door
+University Lodge Amherst                                   8:10 A.M. Location: Lower parking lot
+ 
+Dropoff: Haigis Mall, UMass Amherst.  Please follow the AKBC signs to the Old Chapel.
+ 
+Monday evening shuttle return schedule. 
+8:30 P.M. pickup at Flint Circle, UMass Amherst.  AKBC volunteers will escort attendees to Flint Circle.
+ 
+Tuesday and Wednesday morning shuttle pickup schedule:
+
+Van 1
+Econo Lodge Hadley                                            7:30 A.M. Location: Outside of covered entrance of Main Lobby door
+Howard Johnson  Hadley                                    7:40 A.M. Location: Outside of covered entrance of Main Lobby door
+Courtyard by Marriott Hadley             	 7:50 A.M. Location: Outside of covered entrance of Main Lobby door
+
+Van 2
+Holiday Inn Express & Suites Hadley                7:30 A.M. Location: Outside of covered entrance of Main Lobby door
+Inn on Boltwood                                                  7:40 A.M. Location:  Outside of the Main Lobby door
+University Lodge                                                  7:50 A.M. Location: Lower parking lot
+
+Dropoff: Haigis Mall, UMass Amherst.  Please follow the AKBC signs to the Old Chapel.
+
+Tuesday evening return schedule:
+8:30 P.M. pickup from Quonquont banquet facility.
+
+** Note for the hike and dinner on Tuesday, a bus will drop off /pick up attendees at Haigis Mall at approximately 4:30 P.M.  Anyone not attending the hike, but going to the dinner or going to the hike, but not attending the dinner can use this bus.**
+
+
+Wednesday evening return schedule:
+5:30 P.M. pickup at Haigis Mall, UMass Amherst 
