@@ -19,7 +19,7 @@ header:
 | 10:25    	| 11:00    	| Spotlights Session 1 	            | <a href="" data-reveal-id="Spotlight1Modal">Spotlight Papers</a>                   	|
 | 11:00    	| 11:20    	| *Break*                           	|                    	|
 | 11:20    	| 11:55    	| Invited Talk                  	| [Waleed Ammar]({{ url }}/speakers/#waleed-ammar): *{{ site.data.speakers[0].talktitle }}*       	|
-| 11:55    	| 12:30    	| Invited Talk                  	| [Danqi Chen]({{ url }}/speakers/#danqi-chen): *{{ site.data.speakers[1].talktitle }}*         	|
+| 11:55    	| 12:30    	| Invited Talk                  	| ~~Danqi Chen~~ [Hoifung Poon]({{ url }}/speakers/#hoifung-poon): *{{ site.data.speakers[8].talktitle }}*         	|
 | 12:30    	| 2:00     	| *Lunch*                           	| *Location:* The Blue Wall, 1st floor of the Campus Center                   	|
 | 2:00     	| 2:35     	| Invited Talk                  	| [Xiao Ling]({{ url }}/speakers/#xiao-ling): *{{ site.data.speakers[5].talktitle }}*    	|
 | 2:35     	| 3:10     	| Invited Talk                  	| [Alexandra Meliou]({{ url }}/speakers/#alexandra-meliou): *{{ site.data.speakers[6].talktitle }}*  	|
@@ -41,7 +41,7 @@ header:
 | 9:40     	| 10:15    	| Invited Talk       	| [Lise Getoor]({{ url }}/speakers/#lise-getoor): *{{ site.data.speakers[4].talktitle }}*      	|
 | 10:15    	| 10:30    	| *Break*              	|                  	|
 | 10:30    	| 11:15    	| Best Paper Session 	| [Best Paper Awards]({{ url }}/awards)                 	|
-| 11:15    	| 11:50    	| Invited Talk      	| [Hoifung Poon]({{ url }}/speakers/#hoifung-poon): *{{ site.data.speakers[8].talktitle }}*     	|
+| 11:15    	| 11:50    	| Invited Talk      	| ~~Hoifung Poon~~ [Danqi Chen]({{ url }}/speakers/#danqi-chen): *{{ site.data.speakers[1].talktitle }}*     	|
 | 11:50    	| 12:00    	| Closing remarks    	|                  	|
 | 12:00    	| 1:00     	| *Lunch*              	|                  	|
 | 1:00     	| 2:00     	| *Travel to Hike*     	| [Hiking Info]({{ url }}/hike)                 	|
