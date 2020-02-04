@@ -1,0 +1,26 @@
+<li>
+    <a href="https://openreview.net/forum?id={{-include.p.forum_id-}}">
+    {{- include.p.title -}}
+    </a>
+    <!-- PDF + HTML -->
+    {% if include.p.pdf != "" %}
+        (<a href="https://openreview.net{{-include.p.pdf-}}">PDF</a>
+        {%- if include.p.html -%}
+        , <a href="{{-include.p.html-}}">Website</a>
+        {%- endif -%})
+    {% endif %}
+    <br>
+    <!-- Authors -->
+    <i>
+        {% assign num = include.p.authorids | size %}
+        {% for i in (0..num) limit: num %}
+                {{ include.p.authors[i] }}
+            {%- if forloop.last == true -%}
+            .
+            {%- else -%}
+            , 
+            {%- endif -%}
+        {% endfor %}
+    </i>
+    <br>
+</li>

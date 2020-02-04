@@ -1,0 +1,919 @@
+[
+  {
+    "title": "Alexandria: Unsupervised High-Precision Knowledge Base Construction using a Probabilistic Program",
+    "authors": [
+      "John Winn",
+      "John Guiver",
+      "Sam Webster",
+      "Yordan Zaykov",
+      "Martin Kukla",
+      "Dany Fabian"
+    ],
+    "authorids": [
+      "jwinn@microsoft.com",
+      "joguiver@microsoft.com",
+      "sweb@microsoft.com",
+      "yordanz@microsoft.com",
+      "makukl@microsoft.com",
+      "danfab@microsoft.com"
+    ],
+    "keywords": [
+      "Fact retrieval",
+      "Entity extraction",
+      "Schema learning",
+      "Unsupervised knowledge base construction",
+      "Probabilistic programming"
+    ],
+    "TL;DR": "This paper presents a system for unsupervised, high-precision knowledge base construction using a probabilistic program to define a process of converting knowledge base facts into unstructured text.",
+    "abstract": "Creating a knowledge base that is accurate, up-to-date and complete remains a significant challenge despite substantial efforts in automated knowledge base construction.  In this paper, we present Alexandria -- a system for unsupervised, high-precision knowledge base construction. Alexandria uses a probabilistic program to define a process of converting knowledge base facts into unstructured text.  Using probabilistic inference, we can invert this program and so retrieve facts, schemas and entities from web text. The use of a probabilistic program allows uncertainty in the text to be propagated through to the retrieved facts, which increases accuracy and helps merge facts from multiple sources. Because Alexandria does not require labelled training data, knowledge bases can be constructed with the minimum of manual input. We demonstrate this by constructing a high precision (typically 97\\%+) knowledge base for people from a single seed fact.",
+    "archival status": "Archival",
+    "subject areas": [
+      "Machine Learning",
+      "Information Extraction",
+      "Knowledge Representation"
+    ],
+    "pdf": "/pdf/54c51f8dde95555ee4c8ded0da5625d37cc98da5.pdf",
+    "paperhash": "winn|alexandria_unsupervised_highprecision_knowledge_base_construction_using_a_probabilistic_program",
+    "_bibtex": "@inproceedings{    \nanonymous2019alexandria:,    \ntitle={Alexandria: Unsupervised High-Precision Knowledge Base Construction using a Probabilistic Program},    \nauthor={Anonymous},    \nbooktitle={Submitted to Automated Knowledge Base Construction},    \nyear={2019},    \nurl={https://openreview.net/forum?id=rJgHCgc6pX},    \nnote={under review}    \n}",
+    "forum_id": "rJgHCgc6pX",
+    "author_profiles": [
+      "~John_Winn1",
+      "~John_Guiver1",
+      "",
+      "",
+      "~Martin_Kukla1",
+      ""
+    ]
+  },
+  {
+    "title": "A Survey on Semantic Parsing",
+    "authors": [
+      "Aishwarya Kamath",
+      "Rajarshi Das"
+    ],
+    "authorids": [
+      "aishwarya.kamath@oracle.com",
+      "rajarshi@cs.umass.edu"
+    ],
+    "keywords": [
+      "survey",
+      "semantic parsing"
+    ],
+    "abstract": "A significant amount of information in today's world is stored in structured and semi-structured knowledge bases. Efficient and simple methods to query them are essential and must not be restricted to only those who have expertise in formal query languages. The field of semantic parsing deals with converting natural language utterances to logical forms that can be easily executed on a knowledge base. In this survey, we examine the various components of a semantic parsing system and discuss prominent work ranging from the initial rule based methods to the current neural approaches to program synthesis. We also discuss methods that operate using varying levels of supervision and highlight the key challenges involved in the learning of such systems.",
+    "pdf": "/pdf/d31fde7942ca17022dbef29f15ed896bb7972927.pdf",
+    "archival status": "Archival",
+    "subject areas": [
+      "Machine Learning",
+      "Natural Language Processing",
+      "Information Extraction"
+    ],
+    "paperhash": "kamath|a_survey_on_semantic_parsing",
+    "_bibtex": "@inproceedings{    \nanonymous2019a,    \ntitle={A survey on Semantic Parsing},    \nauthor={Anonymous},    \nbooktitle={Submitted to Automated Knowledge Base Construction},    \nyear={2019},    \nurl={https://openreview.net/forum?id=HylaEWcTT7},    \nnote={under review}    \n}",
+    "forum_id": "HylaEWcTT7",
+    "author_profiles": [
+      "~Aishwarya_Kamath1",
+      "~Rajarshi_Das1"
+    ]
+  },
+  {
+    "title": "Combining Long Short Term Memory and Convolutional Neural Network for Cross-Sentence n-ary Relation Extraction",
+    "authors": [
+      "Angrosh Mandya",
+      "Danushka Bollegala",
+      "Frans Coenen",
+      "Katie Atkinson"
+    ],
+    "authorids": [
+      "angrosh@liverpool.ac.uk",
+      "danushka.bollegala@liverpool.ac.uk",
+      "coenen@liverpool.ac.uk",
+      "katie@liverpool.ac.uk"
+    ],
+    "keywords": [
+      "n-ary relation extraction",
+      "information extraction"
+    ],
+    "abstract": "We propose in this paper a combined model of Long Short Term Memory and Convolutional Neural Networks  (LSTM_CNN) model that exploits word embeddings and positional embeddings for cross-sentence n-ary relation extraction. The proposed model brings together the properties of both LSTMs and CNNs, to simultaneously exploit long-range sequential information and capture most informative features, essential for cross-sentence n-ary relation extraction. The  LSTM_CNN model is evaluated on standard datasets on cross-sentence n-ary relation extraction, where it significantly outperforms baselines such as CNNs, LSTMs and also a combined CNN_LSTM model. The paper also shows that the proposed LSTM_CNN model outperforms the current state-of-the-art methods on cross-sentence n-ary relation extraction.",
+    "pdf": "/pdf/c817c475891868c7c1a3d36e53623f42300a5785.pdf",
+    "archival status": "Archival",
+    "subject areas": [
+      "Information Extraction",
+      "Applications: Biomedicine"
+    ],
+    "paperhash": "mandya|combining_long_short_term_memory_and_convolutional_neural_network_for_crosssentence_nary_relation_extraction",
+    "_bibtex": "@inproceedings{    \nanonymous2019combining,    \ntitle={Combining Long Short Term Memory and Convolutional Neural Network for Cross-Sentence n-ary Relation Extraction},    \nauthor={Anonymous},    \nbooktitle={Submitted to Automated Knowledge Base Construction},    \nyear={2019},    \nurl={https://openreview.net/forum?id=Sye0lZqp6Q},    \nnote={under review}    \n}",
+    "forum_id": "Sye0lZqp6Q",
+    "author_profiles": [
+      "~Angrosh_Mandya1",
+      "~Danushka_Bollegala1",
+      "",
+      ""
+    ]
+  },
+  {
+    "title": "Scalable Rule Learning in Probabilistic Knowledge Bases",
+    "authors": [
+      "Arcchit Jain",
+      "Tal Friedman",
+      "Ondrej Kuzelka",
+      "Guy Van den Broeck",
+      "Luc De Raedt"
+    ],
+    "authorids": [
+      "arcchit.jain@cs.kuleuven.be",
+      "tal@cs.ucla.edu",
+      "kuzelo1@gmail.com",
+      "guyvdb@cs.ucla.edu",
+      "luc.deraedt@cs.kuleuven.be"
+    ],
+    "keywords": [
+      "Database",
+      "KB",
+      "Probabilistic Rule Learning"
+    ],
+    "TL;DR": "Probabilistic Rule Learning system using Lifted Inference",
+    "abstract": "Knowledge Bases (KBs) are becoming increasingly large, sparse and probabilistic. These KBs are typically used to perform query inferences and rule mining. But their efficacy is only as high as their completeness. Efficiently utilizing incomplete KBs remains a major challenge as the current KB completion techniques either do not take into account the inherent uncertainty associated with each KB tuple or do not scale to large KBs.\n\nProbabilistic rule learning not only considers the probability of every KB tuple but also tackles the problem of KB completion in an explainable way. For any given probabilistic KB, it learns probabilistic first-order rules from its relations to identify interesting patterns. But, the current probabilistic rule learning techniques perform grounding to do probabilistic inference for evaluation of candidate rules. It does not scale well to large KBs as the time complexity of inference using grounding is exponential over the size of the KB. In this paper, we present SafeLearner -- a scalable solution to probabilistic KB completion that performs probabilistic rule learning using lifted probabilistic inference -- as faster approach instead of grounding. \n\nWe compared SafeLearner to the state-of-the-art probabilistic rule learner ProbFOIL+ and to its deterministic contemporary AMIE+ on standard probabilistic KBs of NELL (Never-Ending Language Learner) and Yago. Our results demonstrate that SafeLearner scales as good as AMIE+ when learning simple rules and is also significantly faster than ProbFOIL+. ",
+    "pdf": "/pdf/2e50b6e8f515de211d3eb6e0c6e75f99bc4a97c3.pdf",
+    "archival status": "Archival",
+    "subject areas": [
+      "Machine Learning",
+      "Databases"
+    ],
+    "paperhash": "jain|scalable_rule_learning_in_probabilistic_knowledge_bases",
+    "html": "https://github.com/arcchitjain/SafeLearner/tree/AKBC19",
+    "_bibtex": "@inproceedings{    \nanonymous2019scalable,    \ntitle={Scalable Rule Learning in Probabilistic Knowledge Bases},    \nauthor={Anonymous},    \nbooktitle={Submitted to Automated Knowledge Base Construction},    \nyear={2019},    \nurl={https://openreview.net/forum?id=HkyI-5667},    \nnote={under review}    \n}",
+    "forum_id": "HkyI-5667",
+    "author_profiles": [
+      "~Arcchit_Jain1",
+      "~Tal_Friedman1",
+      "~Ondrej_Kuzelka1",
+      "~Guy_Van_den_Broek1",
+      "~Luc_De_Raedt1"
+    ]
+  },
+  {
+    "title": "NormCo: Deep Disease Normalization for Biomedical Knowledge Base Construction",
+    "authors": [
+      "Dustin Wright",
+      "Yannis Katsis",
+      "Raghav Mehta",
+      "Chun-Nan Hsu"
+    ],
+    "authorids": [
+      "dbw003@eng.ucsd.edu",
+      "yannis.katsis@ibm.com",
+      "r3mehta@eng.ucsd.edu",
+      "chunnan@ucsd.edu"
+    ],
+    "keywords": [
+      "Entity Normalization",
+      "Biomedical Knowledge Base Construction"
+    ],
+    "TL;DR": "We present NormCo, a deep coherence model which considers the semantics of an entity mention, as well as the topical coherence of the mentions within a single document to perform disease entity normalization.",
+    "abstract": "Biomedical knowledge bases are crucial in modern data-driven biomedical sciences, but auto-mated biomedical knowledge base construction remains challenging. In this paper, we consider the problem of disease entity normalization, an essential task in constructing a biomedical knowledge base.  We present NormCo, a deep coherence model which considers the semantics of an entity mention, as well as the topical coherence of the mentions within a single document. NormCo mod-els entity mentions using a simple semantic model which composes phrase representations from word embeddings, and treats coherence as a disease concept co-mention sequence using an RNN rather than modeling the joint probability of all concepts in a document, which requires NP-hard inference.  To overcome the issue of data sparsity, we used distantly supervised data and synthetic data generated from priors derived from the BioASQ dataset.  Our experimental results show thatNormCo outperforms state-of-the-art baseline methods on two disease normalization corpora in terms of (1) prediction quality and (2) efficiency, and is at least as performant in terms of accuracy and F1 score on tagged documents.",
+    "pdf": "/pdf/e95a420735f9fe3f50dabead18c7a7c03e347f50.pdf",
+    "archival status": "Archival",
+    "subject areas": [
+      "Machine Learning",
+      "Natural Language Processing"
+    ],
+    "paperhash": "wright|normco_deep_disease_normalization_for_biomedical_knowledge_base_construction",
+    "html": "https://github.com/IBM/aihn-ucsd/tree/master/NormCo-deep-disease-normalization",
+    "_bibtex": "@inproceedings{    \nanonymous2019normco:,    \ntitle={NormCo: Deep Disease Normalization for Biomedical Knowledge Base Construction},    \nauthor={Anonymous},    \nbooktitle={Submitted to Automated Knowledge Base Construction},    \nyear={2019},    \nurl={https://openreview.net/forum?id=BJerQWcp6Q},    \nnote={under review}    \n}",
+    "forum_id": "BJerQWcp6Q",
+    "author_profiles": [
+      "~Dustin_Wright1",
+      "~Yannis_Katsis1",
+      "",
+      "~Chun-Nan_Hsu1"
+    ]
+  },
+  {
+    "title": "Answering Science Exam Questions Using Query Reformulation with Background Knowledge",
+    "authors": [
+      "Ryan Musa",
+      "Xiaoyan Wang",
+      "Achille Fokoue",
+      "Nicholas Mattei",
+      "Maria Chang",
+      "Pavan Kapanipathi",
+      "Bassem Makni",
+      "Kartik Talamadupula",
+      "Michael Witbrock"
+    ],
+    "authorids": [
+      "ramusa@us.ibm.com",
+      "xiaoyan5@illinois.edu",
+      "achille@us.ibm.com",
+      "n.mattei@ibm.com",
+      "maria.chang@ibm.com",
+      "kapanipa@us.ibm.com",
+      "bassem.makni@ibm.com",
+      "krtalamad@us.ibm.com",
+      "witbrock@us.ibm.com"
+    ],
+    "keywords": [
+      "open-domain question answering",
+      "science question answering",
+      "multiple-choice question answering",
+      "passage retrieval",
+      "query reformulation"
+    ],
+    "TL;DR": "We explore how using background knowledge with query reformulation can help retrieve better supporting evidence when answering multiple-choice science questions.",
+    "abstract": "Open-domain question answering (QA) is an important problem in AI and NLP that is emerging as a bellwether for progress on the generalizability of AI methods and techniques. Much of the progress in open-domain QA systems has been realized through advances in information retrieval methods and corpus construction. In this paper, we focus on the recently introduced ARC Challenge dataset, which contains 2,590 multiple choice questions authored for grade-school science exams. These questions are selected to be the most challenging for current QA systems, and current state of the art performance is only slightly better than random chance. We present a system that reformulates a given question into queries that are used to retrieve supporting text from a large corpus of science-related text. Our rewriter is able to incorporate background knowledge from ConceptNet and -- in tandem with a generic textual entailment system trained on SciTail that identifies support in the retrieved results -- outperforms several strong baselines on the end-to-end QA task despite only being trained to identify essential terms in the original source question. We use a generalizable decision methodology over the retrieved evidence and answer candidates to select the best answer. By combining query reformulation, background knowledge, and textual entailment our system is able to outperform several strong baselines on the ARC dataset. ",
+    "pdf": "/pdf/52f9ad2db8ef5e6d7ef45814a239ed71f04366e6.pdf",
+    "archival status": "Archival",
+    "subject areas": [
+      "Natural Language Processing",
+      "Question Answering"
+    ],
+    "paperhash": "musa|answering_science_exam_questions_using_query_reformulation_with_background_knowledge",
+    "_bibtex": "@inproceedings{    \nanonymous2019answering,    \ntitle={Answering Science Exam Questions Using Query Reformulation with Background Knowledge},    \nauthor={Anonymous},    \nbooktitle={Submitted to Automated Knowledge Base Construction},    \nyear={2019},    \nurl={https://openreview.net/forum?id=HJxYZ-5paX},    \nnote={under review}    \n}",
+    "forum_id": "HJxYZ-5paX",
+    "author_profiles": [
+      "~Ryan_A_Musa1",
+      "~Xiaoyan_Wang1",
+      "",
+      "",
+      "",
+      "~Pavan_Kapanipathi1",
+      "~Bassem_Makni1",
+      "~Kartik_Talamadupula1",
+      "~Michael_J._Witbrock1"
+    ]
+  },
+  {
+    "title": "Semi-supervised Ensemble Learning with Weak Supervision for Biomedical Relationship Extraction",
+    "authors": [
+      "Antonios Minas Krasakis",
+      "Evangelos Kanoulas",
+      "George Tsatsaronis"
+    ],
+    "authorids": [
+      "amkrasakis@gmail.com",
+      "e.kanoulas@uva.nl",
+      "g.tsatsaronis@elsevier.com"
+    ],
+    "keywords": [
+      "weak supervision",
+      "meta-learning",
+      "biomedical relationship extraction",
+      "semi-supervised learning",
+      "ensemble learning"
+    ],
+    "TL;DR": "We propose and apply a meta-learning methodology based on Weak Supervision, for combining Semi-Supervised and Ensemble Learning on the task of Biomedical Relationship Extraction.",
+    "abstract": "Natural language understanding research has recently shifted towards complex Machine Learning and Deep Learning algorithms. Such models often outperform their simpler counterparts significantly. However, their performance relies on the availability of large amounts of labeled data, which are rarely available. To tackle this problem, we propose a methodology for extending training datasets to arbitrarily big sizes and training complex, data-hungry models using weak supervision. We apply this methodology on biomedical relation extraction, a task where training datasets are excessively time-consuming and expensive to create, yet has a major impact on downstream applications such as drug discovery. We demonstrate in two small-scale controlled experiments that our method consistently enhances the performance of an LSTM network, with performance improvements comparable to hand-labeled training data. Finally, we discuss the optimal setting for applying weak supervision using this methodology.",
+    "archival status": "Archival",
+    "subject areas": [
+      "Machine Learning",
+      "Natural Language Processing",
+      "Information Extraction",
+      "Applications: Biomedicine"
+    ],
+    "pdf": "/pdf/6b46104f77f411470265a3847896109782a1b4ce.pdf",
+    "paperhash": "krasakis|semisupervised_ensemble_learning_with_weak_supervision_for_biomedical_relationship_extraction",
+    "html": "https://github.com/littlewine/snorkel-ml/blob/master/SS_ensemble_learning_paper_appendix.pdf",
+    "_bibtex": "@inproceedings{    \nanonymous2019semi-supervised,    \ntitle={Semi-supervised Ensemble Learning with Weak Supervision for Biomedical Relationship Extraction},    \nauthor={Anonymous},    \nbooktitle={Submitted to Automated Knowledge Base Construction},    \nyear={2019},    \nurl={https://openreview.net/forum?id=rygDeZqap7},    \nnote={under review}    \n}",
+    "forum_id": "rygDeZqap7",
+    "author_profiles": [
+      "~Antonios_Minas_Krasakis1",
+      "~Evangelos_Kanoulas1",
+      ""
+    ]
+  },
+  {
+    "title": "OPIEC: An Open Information Extraction Corpus",
+    "authors": [
+      "Kiril Gashteovski",
+      "Sebastian Wanner",
+      "Sven Hertling",
+      "Samuel Broscheit",
+      "Rainer Gemulla"
+    ],
+    "authorids": [
+      "k.gashteovski@uni-mannheim.de",
+      "sebastian.wanner@mail.uni-mannheim.de",
+      "sven@informatik.uni-mannheim.de",
+      "broscheit@informatik.uni-mannheim.de",
+      "rgemulla@uni-mannheim.de"
+    ],
+    "keywords": [
+      "open information extraction",
+      "text analytics"
+    ],
+    "TL;DR": "An Open Information Extraction Corpus and its in-depth analysis",
+    "abstract": "Open information extraction (OIE) systems extract relations and their\n  arguments from natural language text in an unsupervised manner. The resulting\n  extractions are a valuable resource for downstream tasks such as knowledge\n  base construction, open question answering, or event schema induction. In this\n  paper, we release, describe, and analyze an OIE corpus called OPIEC, which was\n  extracted from the text of English Wikipedia. OPIEC complements the available\n  OIE resources: It is the largest OIE corpus publicly available to date (over\n  340M triples) and contains valuable metadata such as provenance information,\n  confidence scores, linguistic annotations, and semantic annotations including\n  spatial and temporal information. We analyze the OPIEC corpus by comparing its\n  content with knowledge bases such as DBpedia or YAGO, which are also based on\n  Wikipedia. We found that most of the facts between entities present in OPIEC\n  cannot be found in DBpedia and/or YAGO, that OIE facts \n  often differ in the level of specificity compared to knowledge base facts, and\n  that OIE open relations are generally highly polysemous. We believe that the\n  OPIEC corpus is a valuable resource for future research on automated knowledge\n  base construction.",
+    "archival status": "Archival",
+    "subject areas": [
+      "Information Extraction",
+      "Applications: Other"
+    ],
+    "pdf": "/pdf/1c66d07da040d22f633d5876a09eeac2f12a75c9.pdf",
+    "paperhash": "gashteovski|opiec_an_open_information_extraction_corpus",
+    "html": "https://www.uni-mannheim.de/dws/research/resources/opiec/",
+    "_bibtex": "@inproceedings{    \nanonymous2019opiec:,    \ntitle={OPIEC: An Open Information Extraction Corpus},    \nauthor={Anonymous},    \nbooktitle={Submitted to Automated Knowledge Base Construction},    \nyear={2019},    \nurl={https://openreview.net/forum?id=HJxeGb5pTm},    \nnote={under review}    \n}",
+    "forum_id": "HJxeGb5pTm",
+    "author_profiles": [
+      "~Kiril_Gashteovski1",
+      "",
+      "~Sven_Hertling1",
+      "~Samuel_Broscheit1",
+      "~Rainer_Gemulla1"
+    ]
+  },
+  {
+    "title": "Joint Learning of Hierarchical Word Embeddings from a Corpus and a Taxonomy",
+    "authors": [
+      "Mohammed Alsuhaibani",
+      "Takanori Maehara",
+      "Danushka Bollegala"
+    ],
+    "authorids": [
+      "m.a.alsuhaibani@liverpool.ac.uk",
+      "takanori.maehara@riken.jp",
+      "danushka@liverpool.ac.uk"
+    ],
+    "keywords": [
+      "Hierarchical Embeddings",
+      "Word Embeddings",
+      "Taxonomy"
+    ],
+    "TL;DR": "We presented a method to jointly learn a Hierarchical Word Embedding (HWE) using a corpus and a taxonomy for identifying the hypernymy relations between words.",
+    "abstract": "Identifying the hypernym relations that hold between words is a fundamental task in NLP. Word embedding methods have recently shown some capability to encode hypernymy. However, such methods tend not to explicitly encode the hypernym hierarchy that exists between words. In this paper, we propose a method to learn a hierarchical word embedding in a speci\ufb01c order to capture the hypernymy. To learn the word embeddings, the proposed method considers not only the hypernym relations that exists between words on a taxonomy, but also their contextual information in a large text corpus. The experimental results on a supervised hypernymy detection and a newly-proposed hierarchical path completion tasks show the ability of the proposed method to encode the hierarchy. Moreover, the proposed method outperforms previously proposed methods for learning word and hypernym-speci\ufb01c word embeddings on multiple benchmarks.",
+    "pdf": "/pdf/7015851a783625fe34355eae4a996f9298bebc4d.pdf",
+    "archival status": "Archival",
+    "subject areas": [
+      "Machine Learning",
+      "Natural Language Processing",
+      "Knowledge Representation"
+    ],
+    "paperhash": "alsuhaibani|joint_learning_of_hierarchical_word_embeddings_from_a_corpus_and_a_taxonomy",
+    "_bibtex": "@inproceedings{    \nanonymous2019joint,    \ntitle={Joint Learning of Hierarchical Word Embeddings from a Corpus and a Taxonomy},    \nauthor={Anonymous},    \nbooktitle={Submitted to Automated Knowledge Base Construction},    \nyear={2019},    \nurl={https://openreview.net/forum?id=S1xf-W5paX},    \nnote={under review}    \n}",
+    "forum_id": "S1xf-W5paX",
+    "author_profiles": [
+      "~Mohammed_Alsuhaibani1",
+      "~Takanori_Maehara1",
+      "~Danushka_Bollegala1"
+    ]
+  },
+  {
+    "title": "SHINRA: Structuring Wikipedia by Collaborative Contribution",
+    "authors": [
+      "Satoshi Sekine",
+      "Akio Kobayashi",
+      "Kouta Nakayama"
+    ],
+    "authorids": [
+      "satoshi.sekine@riken.jp",
+      "akio.kobayashi@riken.jp",
+      "kouta.nakayama@gmail.com"
+    ],
+    "keywords": [
+      "Resource construction",
+      "Structured Wikipedia"
+    ],
+    "abstract": "We are reporting the SHINRA project, a project for structuring Wikipedia with collaborative construction scheme. The goal of the project is to create a huge and well-structured knowledge base to be used in NLP applications, such as QA, Dialogue systems and explainable NLP systems. It is created based on a scheme of \u201dResource by Collaborative Contribution (RbCC)\u201d. We conducted a shared task of structuring Wikipedia, and at the same, submitted results are used to construct a knowledge base.\nThere are machine readable knowledge bases such as CYC, DBpedia, YAGO, Freebase Wikidata and so on, but each of them has problems to be solved. CYC has a coverage problem, and others have a coherence problem due to the fact that these are based on Wikipedia and/or created by many but inherently incoherent crowd workers. In order to solve the later problem, we started a project for structuring Wikipedia using automatic knowledge base construction shared-task.\nThe automatic knowledge base construction shared-tasks have been popular and well studied for decades. However, these tasks are designed only to compare the performances of different systems, and to find which system ranks the best on limited test data. The results of the participated systems are not shared and the systems may be abandoned once the task is over.\nWe believe this situation can be improved by the following changes:\n1. designing the shared-task to construct knowledge base rather than evaluating only limited test data\n2. making the outputs of all the systems open to public so that we can run ensemble learning to create the better results than the best systems\n3. repeating the task so that we can run the task with the larger and better training data from the output of the previous task (bootstrapping and active learning)\nWe conducted \u201cSHINRA2018\u201d with the above mentioned scheme and in this paper\nwe report the results and the future directions of the project. The task is to extract the values of the pre-defined attributes from Wikipedia pages. We have categorized most of the entities in Japanese Wikipedia (namely 730 thousand entities) into the 200 ENE categories. Based on this data, the shared-task is to extract the values of the attributes from Wikipedia pages. We gave out the 600 training data and the participants are required to submit the attribute-values for all remaining entities of the same category type. Then 100 data out of them for each category are used to evaluate the system output in the shared-task.\nWe conducted a preliminary ensemble learning on the outputs and found 15 F1 score improvement on a category and the average of 8 F1 score improvements on all 5 categories we tested over a strong baseline. Based on this promising results, we decided to conduct three tasks in 2019; multi-lingual categorization task (ML), extraction for the same 5 categories in Japanese with a larger training data (JP-5) and extraction for 34 new categories in Japanese (JP-34).\n",
+    "archival status": "Archival",
+    "subject areas": [
+      "Natural Language Processing",
+      "Information Extraction",
+      "Information Integration",
+      "Crowd-sourcing",
+      "Other"
+    ],
+    "pdf": "/pdf/89d196db9b1ad333807587fad867ef76a10673f2.pdf",
+    "paperhash": "sekine|shinra_structuring_wikipedia_by_collaborative_contribution",
+    "TL;DR": "We introduce a \"Resource by Collaborative Construction\" scheme to create KB, structured Wikipedia ",
+    "_bibtex": "@inproceedings{    \nanonymous2019shinra:,    \ntitle={SHINRA: Structuring Wikipedia by Collaborative Contribution},    \nauthor={Anonymous},    \nbooktitle={Submitted to Automated Knowledge Base Construction},    \nyear={2019},    \nurl={https://openreview.net/forum?id=HygfXWqTpm},    \nnote={under review}    \n}",
+    "forum_id": "HygfXWqTpm",
+    "author_profiles": [
+      "~Satoshi_Sekine1",
+      "",
+      "~Kota_Nakayama1"
+    ]
+  },
+  {
+    "title": "Fine-grained Entity Recognition with Reduced False Negatives and Large Type Coverage",
+    "authors": [
+      "Abhishek Abhishek",
+      "Sanya Bathla Taneja",
+      "Garima Malik",
+      "Ashish Anand",
+      "Amit Awekar"
+    ],
+    "authorids": [
+      "abhishek.abhishek@iitg.ac.in",
+      "sanyabt11@gmail.com",
+      "annu.2353@gmail.com",
+      "anand.ashish@iitg.ac.in",
+      "amitawekar@gmail.com"
+    ],
+    "keywords": [
+      "Named Entity Recognition",
+      "Wikipedia",
+      "Freebase",
+      "Fine-grained Entity Recognition",
+      "Fine-grained Entity Typing",
+      "Automatic Dataset construction"
+    ],
+    "TL;DR": "We initiate a push towards building ER systems to recognize thousands of types by providing a method to automatically construct suitable datasets based on the type hierarchy. ",
+    "abstract": "Fine-grained Entity Recognition (FgER) is the task of detecting and classifying entity mentions to a large set of types spanning diverse domains such as biomedical, finance and sports.   We  observe  that  when  the  type  set  spans  several  domains,  detection  of  entity mention becomes a limitation for supervised learning models.  The primary reason being lack  of  dataset  where  entity  boundaries  are  properly  annotated  while  covering  a  large spectrum of entity types.  Our work directly addresses this issue.  We propose Heuristics Allied with Distant Supervision (HAnDS) framework to automatically construct a quality dataset suitable for the FgER task.  HAnDS framework exploits the high interlink among Wikipedia  and  Freebase  in  a  pipelined  manner,  reducing  annotation  errors  introduced by naively using distant supervision approach.  Using HAnDS framework,  we create two datasets, one suitable for building FgER systems recognizing up to 118 entity types based on the FIGER type hierarchy and another for up to 1115 entity types based on the TypeNet hierarchy.  Our extensive empirical experimentation warrants the quality of the generated datasets.  Along with this, we also provide a manually annotated dataset for benchmarking FgER systems.",
+    "pdf": "/pdf/452a164dab96dc3934ed052dd6fe4e984b394a3c.pdf",
+    "archival status": "Archival",
+    "subject areas": [
+      "Natural Language Processing",
+      "Information Extraction"
+    ],
+    "paperhash": "abhishek|finegrained_entity_recognition_with_reduced_false_negatives_and_large_type_coverage",
+    "html": "https://github.com/abhipec/HAnDS",
+    "_bibtex": "@inproceedings{    \nanonymous2019fine-grained,    \ntitle={Fine-grained Entity Recognition with Reduced False Negatives and Large Type Coverage},    \nauthor={Anonymous},    \nbooktitle={Submitted to Automated Knowledge Base Construction},    \nyear={2019},    \nurl={https://openreview.net/forum?id=HylHE-9p6m},    \nnote={under review}    \n}",
+    "forum_id": "HylHE-9p6m",
+    "author_profiles": [
+      "~Abhishek_Abhishek1",
+      "",
+      "",
+      "~Ashish_Anand1",
+      "~Amit_Awekar1"
+    ]
+  },
+  {
+    "title": "Improving Relation Extraction by Pre-trained Language Representations",
+    "authors": [
+      "Christoph Alt",
+      "Marc H\u00fcbner",
+      "Leonhard Hennig"
+    ],
+    "authorids": [
+      "christoph.alt@dfki.de",
+      "marc.huebner@dfki.de",
+      "leonhard.hennig@dfki.de"
+    ],
+    "keywords": [
+      "relation extraction",
+      "deep language representations",
+      "transformer",
+      "transfer learning",
+      "unsupervised pre-training"
+    ],
+    "TL;DR": "We propose a Transformer based relation extraction model that uses pre-trained language representations instead of explicit linguistic features.",
+    "abstract": "Current state-of-the-art relation extraction methods typically rely on a set of lexical, syntactic, and semantic features, explicitly computed in a pre-processing step. Training feature extraction models requires additional annotated language resources, which severely restricts the applicability and portability of relation extraction to novel languages. Similarly, pre-processing introduces an additional source of error. To address these limitations, we introduce TRE, a Transformer for Relation Extraction, extending the OpenAI Generative Pre-trained Transformer [Radford et al., 2018]. Unlike previous relation extraction models, TRE uses pre-trained deep language representations instead of explicit linguistic features to inform the relation classification and combines it with the self-attentive Transformer architecture to effectively model long-range dependencies between entity mentions. TRE allows us to learn implicit linguistic features solely from plain text corpora by unsupervised pre-training, before fine-tuning the learned language representations on the relation extraction task. TRE obtains a new state-of-the-art result on the TACRED and SemEval 2010 Task 8 datasets, achieving a test F1 of 67.4 and 87.1, respectively. Furthermore, we observe a significant increase in sample efficiency. With only 20% of the training examples, TRE matches the performance of our baselines and our model trained from scratch on 100% of the TACRED dataset. We open-source our trained models, experiments, and source code.",
+    "pdf": "/pdf/e50dda5fadf083812a1b30b98f87672f382acbef.pdf",
+    "archival status": "Archival",
+    "subject areas": [
+      "Natural Language Processing",
+      "Information Extraction"
+    ],
+    "paperhash": "alt|improving_relation_extraction_by_pretrained_language_representations",
+    "_bibtex": "@inproceedings{    \nanonymous2019improving,    \ntitle={Improving Relation Extraction by Pre-trained Language Representations},    \nauthor={Anonymous},    \nbooktitle={Submitted to Automated Knowledge Base Construction},    \nyear={2019},    \nurl={https://openreview.net/forum?id=BJgrxbqp67},    \nnote={under review}    \n}",
+    "forum_id": "BJgrxbqp67",
+    "author_profiles": [
+      "~Christoph_Alt1",
+      "~Marc_H\u00fcbner1",
+      "~Leonhard_Hennig1"
+    ]
+  },
+  {
+    "title": "MedMentions: A Large Biomedical Corpus Annotated with UMLS Concepts",
+    "authors": [
+      "Sunil Mohan",
+      "Donghui Li"
+    ],
+    "authorids": [
+      "sunilm_k2@yahoo.com",
+      "dli@chanzuckerberg.com"
+    ],
+    "keywords": [
+      "gold-standard corpus",
+      "biomedical concept recognition",
+      "named entity recognition and linking"
+    ],
+    "TL;DR": "The paper introduces a new gold-standard corpus corpus of biomedical scientific literature manually annotated with UMLS concept mentions.",
+    "abstract": "This paper presents the formal release of {\\em MedMentions}, a new manually annotated resource for the recognition of biomedical concepts. What distinguishes MedMentions from other annotated biomedical corpora is its size (over 4,000 abstracts and over 350,000 linked mentions), as well as the size of the concept ontology (over 3 million concepts from UMLS 2017) and its broad coverage of biomedical disciplines. In addition to the full corpus, a sub-corpus of MedMentions is also presented, comprising annotations for a subset of UMLS 2017 targeted towards document retrieval. To encourage research in Biomedical Named Entity Recognition and Linking, data splits for training and testing are included in the release, and a baseline model and its metrics for entity linking are also described.",
+    "archival status": "Archival",
+    "subject areas": [
+      "Natural Language Processing",
+      "Information Extraction",
+      "Applications: Biomedicine"
+    ],
+    "pdf": "/pdf/b95a220f55c45a28f2eb4dd31cdf8eac5863e8c1.pdf",
+    "paperhash": "mohan|medmentions_a_large_biomedical_corpus_annotated_with_umls_concepts",
+    "_bibtex": "@inproceedings{    \nanonymous2019medmentions:,    \ntitle={MedMentions: A Large Biomedical Corpus Annotated with UMLS Concepts},    \nauthor={Anonymous},    \nbooktitle={Submitted to Automated Knowledge Base Construction},    \nyear={2019},    \nurl={https://openreview.net/forum?id=SylxCx5pTQ},    \nnote={under review}    \n}",
+    "forum_id": "SylxCx5pTQ",
+    "author_profiles": [
+      "~Sunil_Mohan1",
+      "~Donghui_Li1"
+    ]
+  },
+  {
+    "title": "Learning Relation Representations from Word Representations",
+    "authors": [
+      "Huda Hakami",
+      "Danushka Bollegala"
+    ],
+    "authorids": [
+      "h.a.hakami@liv.ac.uk",
+      "danushka@liverpool.ac.uk"
+    ],
+    "keywords": [
+      "Relation representations",
+      "relation embeddings"
+    ],
+    "TL;DR": "Identifying the relations that connect words is important for various NLP tasks. We model relation representation as a supervised learning problem and learn parametrised operators that map pre-trained word embeddings to relation representations.",
+    "abstract": "Identifying the relations that connect words is an important step towards understanding human languages and is useful for various NLP tasks such as knowledge base completion and analogical reasoning. Simple unsupervised operators such as vector offset between two-word embeddings have shown to recover some specific relationships between those words, if any. Despite this, how to accurately learn generic relation representations from word representations remains unclear. We model relation representation as a supervised learning problem and learn parametrised operators that map pre-trained word embeddings to relation representations. We propose a method for learning relation representations using a feed-forward neural network that performs relation prediction. Our evaluations on two benchmark datasets reveal that the penultimate layer of the trained neural network-based relational predictor acts as a good representation for the relations between words.",
+    "pdf": "/pdf/8a863643c9b66f9a851e826c15e7f9ded603893f.pdf",
+    "archival status": "Archival",
+    "subject areas": [
+      "Natural Language Processing"
+    ],
+    "paperhash": "hakami|learning_relation_representations_from_word_representations",
+    "_bibtex": "@inproceedings{    \nanonymous2019learning,    \ntitle={Learning Relation Representations from Word Representations},    \nauthor={Anonymous},    \nbooktitle={Submitted to Automated Knowledge Base Construction},    \nyear={2019},    \nurl={https://openreview.net/forum?id=r1e3WW5aTX},    \nnote={under review}    \n}",
+    "forum_id": "r1e3WW5aTX",
+    "author_profiles": [
+      "~Huda_Hakami1",
+      "~Danushka_Bollegala1"
+    ]
+  },
+  {
+    "title": "Answering Visual-Relational Queries in Web-Extracted Knowledge Graphs",
+    "authors": [
+      "Daniel O\u00f1oro-Rubio",
+      "Mathias Niepert",
+      "Alberto Garc\u00eda-Dur\u00e1n",
+      "Roberto Gonz\u00e1lez-S\u00e1nchez",
+      "Roberto J. L\u00f3pez-Sastre"
+    ],
+    "authorids": [
+      "daniel.onoro@neclab.eu",
+      "mathias.niepert@neclab.eu",
+      "alberto.duran@neclab.eu",
+      "roberto.gonzalez@neclab.eu",
+      "robertoj.lopez@uah.es"
+    ],
+    "keywords": [],
+    "abstract": "A visual-relational knowledge graph (KG) is a multi-relational graph whose entities are associated with images. We explore novel machine learning approaches for answering visual-relational queries in web-extracted knowledge graphs. To this end, we have created ImageGraph, a KG with 1,330 relation types, 14,870 entities, and 829,931 images crawled from the web. With visual-relational KGs such as ImageGraph one can introduce novel probabilistic query types in which images are treated as first-class citizens. Both the prediction of relations between unseen images as well as multi-relational image retrieval can be expressed with specific families of visual-relational queries. We introduce novel combinations of convolutional networks and knowledge graph embedding methods to answer such queries.  \nWe also explore a zero-shot learning scenario where an image of an entirely new entity is linked with multiple relations to entities of an existing KG. The resulting multi-relational grounding of unseen entity images into a knowledge graph serves as a semantic entity representation. We conduct experiments to demonstrate that the proposed methods can answer these visual-relational queries efficiently and accurately.",
+    "archival status": "Archival",
+    "subject areas": [
+      "Machine Learning",
+      "Question Answering",
+      "Knowledge Representation",
+      "Relational AI"
+    ],
+    "pdf": "/pdf/4e7ff4643f03767a05bf551c53affc1a7242020f.pdf",
+    "paperhash": "o\u00f1ororubio|answering_visualrelational_queries_in_webextracted_knowledge_graphs",
+    "_bibtex": "@inproceedings{    \nanonymous2019answering,    \ntitle={Answering Visual-Relational Queries in Web-Extracted Knowledge Graphs},    \nauthor={Anonymous},    \nbooktitle={Submitted to Automated Knowledge Base Construction},    \nyear={2019},    \nurl={https://openreview.net/forum?id=BylEpe9ppX},    \nnote={under review}    \n}",
+    "forum_id": "BylEpe9ppX",
+    "author_profiles": [
+      "~Daniel_Onoro_Rubio1",
+      "~Mathias_Niepert1",
+      "~Alberto_Garcia-Duran1",
+      "",
+      "~Roberto_J._Lopez-sastre1"
+    ]
+  },
+  {
+    "title": "Scaling Hierarchical Coreference with Homomorphic Compression",
+    "authors": [
+      "Michael Wick",
+      "Swetasudha Panda",
+      "Joseph Tassarotti",
+      "Jean-Baptiste Tristan"
+    ],
+    "authorids": [
+      "michael.wick@oracle.com",
+      "swetasudha.panda@oracle.com",
+      "jdtweb@gmail.com",
+      "jean.baptiste.tristan@oracle.com"
+    ],
+    "keywords": [
+      "coreference",
+      "entity resolution",
+      "CRF",
+      "LSH",
+      "hashing",
+      "random projections"
+    ],
+    "TL;DR": "We employ linear homomorphic compression schemes to represent the sufficient statistics of a conditional random field model of coreference and this allows us to scale inference and improve speed by an order of magnitude.",
+    "abstract": "Locality sensitive hashing schemes such as \\simhash provide compact representations of multisets from which similarity can be estimated. However, in certain applications, we need to estimate the similarity of dynamically changing sets.  In this case, we need the representation to be a homomorphism so that the hash of unions and differences of sets can be computed directly from the hashes of operands.  We propose two representations that have this property for cosine similarity (an extension of \\simhash and angle-preserving random projections), and make substantial progress on a third representation for Jaccard similarity (an extension of \\minhash). We employ these hashes to compress the sufficient statistics of a conditional random field (CRF) coreference model and study how this compression affects our ability to compute similarities as entities are split and merged during inference. \\cut{We study these hashes in a conditional random field (CRF) hierarchical coreference model in order to compute the similarity of entities as they are merged and split during inference.} We also provide novel statistical analysis of \\simhash to help justify it as an estimator inside a CRF, showing that the bias and variance reduce quickly with the number of bits. On a problem of author coreference, we find that our \\simhash scheme allows scaling the hierarchical coreference algorithm by an order of magnitude without degrading its statistical performance or the model's coreference accuracy, as long as we employ at least 128 or 256 bits.  Angle-preserving random projections further improve the coreference quality, potentially allowing even fewer dimensions to be used.",
+    "archival status": "Archival",
+    "subject areas": [
+      "Information Integration"
+    ],
+    "pdf": "/pdf/af891d960b00d9dd02ac34ca6a535bdaa51a807e.pdf",
+    "paperhash": "wick|scaling_hierarchical_coreference_with_homomorphic_compression",
+    "html": "https://michaelwick.github.io/files/main_appendix.pdf",
+    "_bibtex": "@inproceedings{    \nanonymous2019scaling,    \ntitle={Scaling Hierarchical Coreference with Homomorphic Compression},    \nauthor={Anonymous},    \nbooktitle={Submitted to Automated Knowledge Base Construction},    \nyear={2019},    \nurl={https://openreview.net/forum?id=H1gwRx5T6Q},    \nnote={under review}    \n}",
+    "forum_id": "H1gwRx5T6Q",
+    "author_profiles": [
+      "~Michael_L_Wick1",
+      "",
+      "~Joseph_Tassarotti1",
+      "~Jean-Baptiste_Tristan1"
+    ]
+  },
+  {
+    "title": "Learning Numerical Attributes in Knowledge Bases",
+    "authors": [
+      "Bhushan Kotnis",
+      "Alberto Garc\u00eda-Dur\u00e1n"
+    ],
+    "authorids": [
+      "bhushan.kotnis@neclab.eu",
+      "alberto.duran@neclab.eu"
+    ],
+    "keywords": [
+      "numerical attribute prediction",
+      "label propagation",
+      "value imputation"
+    ],
+    "TL;DR": "Prediction of numerical attribute values associated with entities in knowledge bases.",
+    "abstract": "Knowledge bases (KB) are often represented as a collection of facts in the form (HEAD, PREDICATE, TAIL), where HEAD and TAIL are entities while PREDICATE is a binary relationship that links the two. It is a well-known fact that knowledge bases are far from complete, and hence the plethora of research on KB completion methods, specifically on link prediction. However, though frequently ignored, these repositories also contain numerical facts. Numerical facts link entities to numerical values via numerical predicates; e.g., (PARIS, LATITUDE, 48.8). Likewise, numerical facts also suffer from the incompleteness problem. To address this issue, we introduce the numerical attribute prediction problem. This problem involves a new type of query where the relationship is a numerical predicate. Consequently, and contrary to link prediction, the answer to this query is a numerical value. We argue that the numerical values associated with entities explain, to some extent, the relational structure of the knowledge base. Therefore, we leverage knowledge base embedding methods to learn representations that are useful predictors for the numerical attributes. An extensive set of experiments on benchmark versions of FREEBASE and YAGO show that our approaches largely outperform sensible baselines. We make the datasets available under a permissive BSD-3 license. ",
+    "archival status": "Archival",
+    "subject areas": [
+      "Information Extraction",
+      "Relational AI"
+    ],
+    "pdf": "/pdf/3245347491d363c15a33c9d5af2890b86fd0b6c2.pdf",
+    "paperhash": "kotnis|learning_numerical_attributes_in_knowledge_bases",
+    "_bibtex": "@inproceedings{    \nanonymous2019learning,    \ntitle={Learning Numerical Attributes in Knowledge Bases},    \nauthor={Anonymous},    \nbooktitle={Submitted to Automated Knowledge Base Construction},    \nyear={2019},    \nurl={https://openreview.net/forum?id=BJlh0x9ppQ},    \nnote={under review}    \n}",
+    "forum_id": "BJlh0x9ppQ",
+    "author_profiles": [
+      "",
+      "~Alberto_Garcia-Duran1"
+    ]
+  },
+  {
+    "title": "Discriminative Candidate Generation for Medical Concept Linking",
+    "authors": [
+      "Elliot Schumacher",
+      "Mark Dredze"
+    ],
+    "authorids": [
+      "eschumac@cs.jhu.edu",
+      "mdredze@cs.jhu.edu"
+    ],
+    "keywords": [
+      "concept linking",
+      "clinical nlp",
+      "information extraction"
+    ],
+    "abstract": "Linking mentions of medical concepts in a clinical note to a concept in an ontology enables a variety of tasks that rely on understanding the content of a medical record, such as identifying patient populations and decision support.   Medical concept linking can be formulated as a two-step task; 1) candidate generator, which selects likely candidates from the ontology for the given mention, and 2) a ranker, which orders the candidates based on a set of features to find the best one.In this paper, we propose a candidate generation system based on the DiscK framework [Chen andVan Durme, 2017].  Our system produces a candidate list with both high coverage and a rankingthat is a useful starting point for the second step of the linking process. we integrate our candidate selection process into a current linking system, DNorm [Leaman et al., 2013]. The resulting system achieves similar accuracy paired with with a gain in efficiency due to a large reduction in the number of potential candidates considered.",
+    "archival status": "Archival",
+    "subject areas": [
+      "Natural Language Processing",
+      "Information Extraction",
+      "Applications: Biomedicine"
+    ],
+    "pdf": "/pdf/21672f7dbc3918983b8d57a4bdca3f2f3ee62800.pdf",
+    "paperhash": "schumacher|discriminative_candidate_generation_for_medical_concept_linking",
+    "_bibtex": "@inproceedings{    \nanonymous2019discriminative,    \ntitle={Discriminative Candidate Generation for Medical Concept Linking},    \nauthor={Anonymous},    \nbooktitle={Submitted to Automated Knowledge Base Construction},    \nyear={2019},    \nurl={https://openreview.net/forum?id=r1xP1W56pQ},    \nnote={under review}    \n}",
+    "forum_id": "r1xP1W56pQ",
+    "author_profiles": [
+      "~Elliot_Schumacher1",
+      ""
+    ]
+  },
+  {
+    "title": "Synonym Expansion for Large Shopping Taxonomies",
+    "authors": [
+      "Adrian Boteanu",
+      "Adam Kiezun",
+      "Shay Artzi"
+    ],
+    "authorids": [
+      "boteanua@amazon.com",
+      "akkiezun@amazon.com",
+      "artzi@amazon.com"
+    ],
+    "keywords": [
+      "Ontology",
+      "Taxonomy",
+      "Synonym",
+      "Shopping",
+      "Search"
+    ],
+    "TL;DR": "We use machine learning to generate synonyms for large shopping taxonomies.",
+    "abstract": "We present an approach for expanding taxonomies with synonyms, or aliases. We target large shopping taxonomies, with thousands of nodes. A comprehensive set of entity aliases is an important component of identifying entities in unstructured text such as product reviews or search queries. Our method consists of two stages: we generate synonym candidates from WordNet and shopping search queries, then use a binary classi\ufb01er to \ufb01lter candidates. We process taxonomies with thousands of synonyms in order to generate over 90,000 synonyms. We show that using the taxonomy to derive contextual features improves classi\ufb01cation performance over using features from the target node alone.We show that our approach has potential for transfer learning between di\ufb00erent taxonomy domains, which reduces the need to collect training data for new taxonomies.",
+    "pdf": "/pdf/e48039522f203e4f5e7c4d80d24d9c50a8387b44.pdf",
+    "archival status": "Archival",
+    "subject areas": [
+      "Machine Learning",
+      "Natural Language Processing",
+      "Applications: Other"
+    ],
+    "paperhash": "boteanu|synonym_expansion_for_large_shopping_taxonomies",
+    "_bibtex": "@inproceedings{    \nanonymous2019synonym,    \ntitle={Synonym Expansion for Large Shopping Taxonomies},    \nauthor={Anonymous},    \nbooktitle={Submitted to Automated Knowledge Base Construction},    \nyear={2019},    \nurl={https://openreview.net/forum?id=rJx2g-qaTm},    \nnote={under review}    \n}",
+    "forum_id": "rJx2g-qaTm",
+    "author_profiles": [
+      "~Adrian_Boteanu1",
+      "",
+      ""
+    ]
+  },
+  {
+    "title": "Integrating User Feedback under Identity Uncertainty in Knowledge Base Construction",
+    "authors": [
+      "Ari Kobren",
+      "Nicholas Monath",
+      "Andrew McCallum"
+    ],
+    "authorids": [
+      "akobren@cs.umass.edu",
+      "nmonath@cs.umass.edu",
+      "mccallum@cs.umass.edu"
+    ],
+    "keywords": [
+      "user feedback",
+      "entity resolution",
+      "identity uncertainty"
+    ],
+    "TL;DR": "This paper develops a framework for integrating user feedback under identity uncertainty in knowledge bases. ",
+    "abstract": "Users have tremendous potential to aid in the construction and maintenance of knowledges bases (KBs) through the contribution of feedback that identifies incorrect and missing entity attributes and relations. However, as new data is added to the KB, the KB entities, which are constructed by running entity resolution (ER), can change, rendering the intended targets of user feedback unknown\u2013a problem we term identity uncertainty. In this work, we present a framework for integrating user feedback into KBs in the presence of identity uncertainty. Our approach is based on having user feedback participate alongside mentions in ER. We propose a specific representation of user feedback as feedback mentions and introduce a new online algorithm for integrating these mentions into an existing KB. In experiments, we demonstrate that our proposed approach outperforms the baselines in 70% of experimental conditions.",
+    "pdf": "/pdf/7c4a62f427867407882e908a39323c40a0086210.pdf",
+    "archival status": "Archival",
+    "subject areas": [
+      "Information Integration",
+      "Human computation"
+    ],
+    "paperhash": "kobren|integrating_user_feedback_under_identity_uncertainty_in_knowledge_base_construction",
+    "_bibtex": "@inproceedings{    \nanonymous2019integrating,    \ntitle={Integrating User Feedback under Identity Uncertainty in Knowledge Base Construction},    \nauthor={Anonymous},    \nbooktitle={Submitted to Automated Knowledge Base Construction},    \nyear={2019},    \nurl={https://openreview.net/forum?id=SygLHbcapm},    \nnote={under review}    \n}",
+    "forum_id": "SygLHbcapm",
+    "author_profiles": [
+      "~Ari_Kobren1",
+      "~Nicholas_Monath1",
+      "~Andrew_McCallum1"
+    ]
+  },
+  {
+    "title": "On Constrained Open-World Probabilistic Databases",
+    "authors": [
+      "Tal Friedman",
+      "Guy Van den Broeck"
+    ],
+    "authorids": [
+      "tal@cs.ucla.edu",
+      "guyvdb@cs.ucla.edu"
+    ],
+    "keywords": [
+      "probabilistic databases"
+    ],
+    "TL;DR": "",
+    "abstract": "Increasing amounts of available data have led to a heightened need for representing large-scale probabilistic knowledge bases. One approach is to use a probabilistic database, a model with strong assumptions that allow for efficiently answering many interesting queries. Recent work on open-world probabilistic databases strengthens the semantics of these probabilistic databases by discarding the assumption that any information not present in the data must be false. While intuitive, these semantics are not sufficiently precise to give reasonable answers to queries. We propose overcoming these issues by using constraints to restrict this open world. We provide an algorithm for one class of queries, and establish a basic hardness result for another. Finally, we propose an efficient and tight approximation for a large class of queries.",
+    "archival status": "",
+    "subject areas": [],
+    "pdf": "",
+    "paperhash": "friedman|on_constrained_openworld_probabilistic_databases",
+    "html": "https://www.dropbox.com/s/p2y4qc4z05y4mjl/akbc_appendix.pdf?dl=0",
+    "Keywords": "",
+    "forum_id": "r1xTXZ9p6Q",
+    "author_profiles": [
+      "~Tal_Friedman1",
+      "~Guy_Van_den_Broek1"
+    ]
+  },
+  {
+    "title": "Applying Citizen Science to Gene, Drug, Disease Relationship Extraction from Biomedical Abstracts",
+    "authors": [
+      "Ginger Tsueng",
+      "Max Nanis",
+      "Jennifer T. Fouquier",
+      "Michael Mayers",
+      "Benjamin M. Good",
+      "Andrew I Su"
+    ],
+    "authorids": [
+      "gtsueng@gmail.com",
+      "max@maxnanis.com",
+      "jennietf@gmail.com",
+      "mmayers@scripps.edu",
+      "ben.mcgee.good@gmail.com",
+      "asu@scripps.edu"
+    ],
+    "keywords": [
+      "citizen science",
+      "relationship extraction",
+      "biomedical literature",
+      "abstracts"
+    ],
+    "TL;DR": "",
+    "abstract": "Biomedical literature is growing at a rate that outpaces our ability to harness the knowledge contained therein. In order to mine valuable inferences from the large volume of literature, many researchers have turned to information extraction algorithms to harvest information in biomedical texts. Information extraction is usually accomplished via a combination of manual expert curation and computational methods. Advances in computational methods usually depends on the generation of gold standards by a limited number of expert curators. This process can be time consuming and represents an area of biomedical research that is ripe for exploration with citizen science. Citizen scientists have been previously found to be willing and capable of performing named entity recognition of disease mentions in biomedical abstracts, but it was uncertain whether or not the same could be said of relationship extraction. Relationship extraction requires training on identifying named entities as well as a deeper understanding of how different entity types can relate to one another. Here, we used the web-based application Mark2Cure (https://mark2cure.org) to demonstrate that citizen scientists can perform relationship extraction and confirm the importance of accurate named entity recognition on this task. We also discuss opportunities for future improvement of this system, as well as the potential synergies between citizen science, manual biocuration, and natural language processing. ",
+    "archival status": "",
+    "subject areas": [],
+    "pdf": "",
+    "paperhash": "tsueng|applying_citizen_science_to_gene_drug_disease_relationship_extraction_from_biomedical_abstracts",
+    "Keywords": "",
+    "forum_id": "r1loaec6pm",
+    "author_profiles": [
+      "~Ginger_Tsueng1",
+      "",
+      "",
+      "~Michael_D_Mayers1",
+      "",
+      "~Andrew_Su1"
+    ]
+  },
+  {
+    "title": "Investigating Robustness and Interpretability of Link Prediction via Adversarial Modifications",
+    "authors": [
+      "Pouya Pezeshkpour",
+      "Yifan Tian",
+      "Sameer Singh"
+    ],
+    "authorids": [
+      "pezeshkp@uci.edu",
+      "yifant@uci.edu",
+      "sameer@uci.edu"
+    ],
+    "keywords": [
+      "Adversarial Attack",
+      "Knowledge Base Completion"
+    ],
+    "TL;DR": "",
+    "abstract": "Representing entities and relations in an embedding space is a well-studied approach for machine learning on relational data. Existing approaches, however, primarily focus on improving ranking metrics and ignore other aspects of knowledge base representations, such as robustness, interpretability, and ability to detect errors. In this paper, we propose adversarial attacks on link prediction models (AALP): identifying the fact to add into or remove from the knowledge graph that changes the prediction of a target fact. Using these attacks, we are able to identify the most influential related fact for a predicted link and investigate the sensitivity of the model to additional made-up facts. We introduce an efficient approach to estimate the effect of making a change by approximating the change in the embeddings upon altering the knowledge graph. In order to avoid the combinatorial search over all possible facts, we introduce an inverter function and gradient-based search to identify the adversary in a continuous space. We demonstrate that our models effectively attack the link prediction models by reducing their accuracy between 6-45% for different metrics. Further, we study patterns in the most influential neighboring facts, as identified by the adversarial attacks. Finally, we use the proposed approach to detect incorrect facts in the knowledge base, achieving up to 55% accuracy in identifying errors.",
+    "pdf": "",
+    "archival status": "",
+    "subject areas": [],
+    "paperhash": "pezeshkpour|investigating_robustness_and_interpretability_of_link_prediction_via_adversarial_modifications",
+    "Keywords": "",
+    "forum_id": "Hkg7rbcp67",
+    "author_profiles": [
+      "~pouya_pezeshkpour1",
+      "~Yifan_Tian1",
+      "~Sameer_Singh1"
+    ]
+  },
+  {
+    "title": "GraphIE: A Graph-Based Framework for Information Extraction",
+    "authors": [
+      "Yujie Qian",
+      "Enrico Santus",
+      "Zhijing Jin",
+      "Jiang Guo",
+      "Regina Barzilay"
+    ],
+    "authorids": [
+      "yujieq@csail.mit.edu",
+      "esantus@mit.edu",
+      "zhijing@mit.edu",
+      "jiang_guo@csail.mit.edu",
+      "regina@csail.mit.edu"
+    ],
+    "keywords": [
+      "information extraction",
+      "graph convolutional network"
+    ],
+    "TL;DR": "",
+    "abstract": "Most modern Information Extraction (IE) systems are implemented as sequential taggers and only model local dependencies. Non-local and non-sequential context is, however, a valuable source of information to improve predictions. In this paper, we introduce GraphIE, a framework that operates over a graph representing a broad set of dependencies between textual units (i.e. words or sentences). The algorithm propagates information between connected nodes through graph convolutions, generating a richer representation that can be exploited to improve word-level predictions. Evaluation on three different tasks -- namely social media, textual and visual information extraction -- shows that GraphIE consistently outperforms the state-of-the-art sequence tagging model by a significant margin.",
+    "pdf": "",
+    "archival status": "",
+    "subject areas": [],
+    "paperhash": "qian|graphie_a_graphbased_framework_for_information_extraction",
+    "Keywords": "",
+    "forum_id": "Sye7fZcTTm",
+    "author_profiles": [
+      "~Yujie_Qian1",
+      "~Enrico_Santus1",
+      "",
+      "~Jiang_Guo1",
+      ""
+    ]
+  },
+  {
+    "title": "Learning Relational Representations by Analogy using Hierarchical Siamese Networks",
+    "authors": [
+      "Gaetano Rossiello",
+      "Alfio Gliozzo",
+      "Robert Farrell",
+      "Nicolas Fauceglia",
+      "Michael Glass"
+    ],
+    "authorids": [
+      "gaetano.rossiello@uniba.it",
+      "gliozzo@us.ibm.com",
+      "robfarr@us.ibm.com",
+      "nicolas.fauceglia@gmail.com",
+      "mrglass@us.ibm.com"
+    ],
+    "keywords": [
+      "relation extraction",
+      "textual representation",
+      "siamese network",
+      "one-shot learning",
+      "transfer learning"
+    ],
+    "TL;DR": "",
+    "abstract": "We address relation extraction as an analogy problem by proposing a novel approach to learn representations of relations expressed by their textual mentions. In our assumption, if two pairs of entities belong to the same relation, then those two pairs are analogous. Following this idea, we collect a large set of analogous pairs by matching triples in knowledge bases with web-scale corpora through distant supervision. We leverage this dataset to train a hierarchical siamese network in order to learn entity-entity embeddings which encode relational information through the different linguistic paraphrasing expressing the same relation. We evaluate our model in a one-shot learning task by showing a promising generalization capability in order to classify unseen relation types, which makes this approach suitable to perform automatic knowledge base population with minimal supervision. Moreover, the model can be used to generate pre-trained embeddings which provide a valuable signal when integrated into an existing neural-based model by outperforming the state-of-the-art methods on a downstream relation extraction task.",
+    "pdf": "",
+    "archival status": "",
+    "subject areas": [],
+    "paperhash": "rossiello|learning_relational_representations_by_analogy_using_hierarchical_siamese_networks",
+    "Keywords": "",
+    "forum_id": "SkxE1b56TQ",
+    "author_profiles": [
+      "~Gaetano_Rossiello1",
+      "",
+      "",
+      "~NICOLAS_RODOLFO_FAUCEGLIA1",
+      ""
+    ]
+  }
+]
