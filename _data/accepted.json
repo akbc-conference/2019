@@ -34,13 +34,13 @@
     ],
     "pdf": "/pdf/54c51f8dde95555ee4c8ded0da5625d37cc98da5.pdf",
     "paperhash": "winn|alexandria_unsupervised_highprecision_knowledge_base_construction_using_a_probabilistic_program",
-    "_bibtex": "@inproceedings{    \nanonymous2019alexandria:,    \ntitle={Alexandria: Unsupervised High-Precision Knowledge Base Construction using a Probabilistic Program},    \nauthor={Anonymous},    \nbooktitle={Submitted to Automated Knowledge Base Construction},    \nyear={2019},    \nurl={https://openreview.net/forum?id=rJgHCgc6pX},    \nnote={under review}    \n}",
+    "_bibtex": "@inproceedings{\nwinn2019alexandria,\ntitle={Alexandria: Unsupervised High-Precision Knowledge Base Construction using a Probabilistic Program},\nauthor={John Winn and John Guiver and Sam Webster and Yordan Zaykov and Martin Kukla and Dany Fabian},\nbooktitle={Automated Knowledge Base Construction (AKBC)},\nyear={2019},\nurl={https://openreview.net/forum?id=rJgHCgc6pX}\n}",
     "forum_id": "rJgHCgc6pX",
     "author_profiles": [
       "~John_Winn1",
       "~John_Guiver1",
       "",
-      "",
+      "~Yordan_Zaykov1",
       "~Martin_Kukla1",
       ""
     ]
@@ -68,7 +68,7 @@
       "Information Extraction"
     ],
     "paperhash": "kamath|a_survey_on_semantic_parsing",
-    "_bibtex": "@inproceedings{    \nanonymous2019a,    \ntitle={A survey on Semantic Parsing},    \nauthor={Anonymous},    \nbooktitle={Submitted to Automated Knowledge Base Construction},    \nyear={2019},    \nurl={https://openreview.net/forum?id=HylaEWcTT7},    \nnote={under review}    \n}",
+    "_bibtex": "@inproceedings{\nkamath2019a,\ntitle={A Survey on Semantic Parsing},\nauthor={Aishwarya Kamath and Rajarshi Das},\nbooktitle={Automated Knowledge Base Construction (AKBC)},\nyear={2019},\nurl={https://openreview.net/forum?id=HylaEWcTT7}\n}",
     "forum_id": "HylaEWcTT7",
     "author_profiles": [
       "~Aishwarya_Kamath1",
@@ -101,7 +101,7 @@
       "Applications: Biomedicine"
     ],
     "paperhash": "mandya|combining_long_short_term_memory_and_convolutional_neural_network_for_crosssentence_nary_relation_extraction",
-    "_bibtex": "@inproceedings{    \nanonymous2019combining,    \ntitle={Combining Long Short Term Memory and Convolutional Neural Network for Cross-Sentence n-ary Relation Extraction},    \nauthor={Anonymous},    \nbooktitle={Submitted to Automated Knowledge Base Construction},    \nyear={2019},    \nurl={https://openreview.net/forum?id=Sye0lZqp6Q},    \nnote={under review}    \n}",
+    "_bibtex": "@inproceedings{\nmandya2019combining,\ntitle={Combining Long Short Term Memory and Convolutional Neural Network for Cross-Sentence n-ary Relation Extraction},\nauthor={Angrosh Mandya and Danushka Bollegala and Frans Coenen and Katie Atkinson},\nbooktitle={Automated Knowledge Base Construction (AKBC)},\nyear={2019},\nurl={https://openreview.net/forum?id=Sye0lZqp6Q}\n}",
     "forum_id": "Sye0lZqp6Q",
     "author_profiles": [
       "~Angrosh_Mandya1",
@@ -141,7 +141,7 @@
     ],
     "paperhash": "jain|scalable_rule_learning_in_probabilistic_knowledge_bases",
     "html": "https://github.com/arcchitjain/SafeLearner/tree/AKBC19",
-    "_bibtex": "@inproceedings{    \nanonymous2019scalable,    \ntitle={Scalable Rule Learning in Probabilistic Knowledge Bases},    \nauthor={Anonymous},    \nbooktitle={Submitted to Automated Knowledge Base Construction},    \nyear={2019},    \nurl={https://openreview.net/forum?id=HkyI-5667},    \nnote={under review}    \n}",
+    "_bibtex": "@inproceedings{\njain2019scalable,\ntitle={Scalable Rule Learning in Probabilistic Knowledge Bases},\nauthor={Arcchit Jain and Tal Friedman and Ondrej Kuzelka and Guy Van den Broeck and Luc De Raedt},\nbooktitle={Automated Knowledge Base Construction (AKBC)},\nyear={2019},\nurl={https://openreview.net/forum?id=HkyI-5667}\n}",
     "forum_id": "HkyI-5667",
     "author_profiles": [
       "~Arcchit_Jain1",
@@ -179,7 +179,7 @@
     ],
     "paperhash": "wright|normco_deep_disease_normalization_for_biomedical_knowledge_base_construction",
     "html": "https://github.com/IBM/aihn-ucsd/tree/master/NormCo-deep-disease-normalization",
-    "_bibtex": "@inproceedings{    \nanonymous2019normco:,    \ntitle={NormCo: Deep Disease Normalization for Biomedical Knowledge Base Construction},    \nauthor={Anonymous},    \nbooktitle={Submitted to Automated Knowledge Base Construction},    \nyear={2019},    \nurl={https://openreview.net/forum?id=BJerQWcp6Q},    \nnote={under review}    \n}",
+    "_bibtex": "@inproceedings{\nwright2019normco,\ntitle={NormCo: Deep Disease Normalization for Biomedical Knowledge Base Construction},\nauthor={Dustin Wright and Yannis Katsis and Raghav Mehta and Chun-Nan Hsu},\nbooktitle={Automated Knowledge Base Construction (AKBC)},\nyear={2019},\nurl={https://openreview.net/forum?id=BJerQWcp6Q}\n}",
     "forum_id": "BJerQWcp6Q",
     "author_profiles": [
       "~Dustin_Wright1",
@@ -228,7 +228,7 @@
       "Question Answering"
     ],
     "paperhash": "musa|answering_science_exam_questions_using_query_reformulation_with_background_knowledge",
-    "_bibtex": "@inproceedings{    \nanonymous2019answering,    \ntitle={Answering Science Exam Questions Using Query Reformulation with Background Knowledge},    \nauthor={Anonymous},    \nbooktitle={Submitted to Automated Knowledge Base Construction},    \nyear={2019},    \nurl={https://openreview.net/forum?id=HJxYZ-5paX},    \nnote={under review}    \n}",
+    "_bibtex": "@inproceedings{\nmusa2019answering,\ntitle={Answering Science Exam Questions Using Query Reformulation with Background Knowledge},\nauthor={Ryan Musa and Xiaoyan Wang and Achille Fokoue and Nicholas Mattei and Maria Chang and Pavan Kapanipathi and Bassem Makni and Kartik Talamadupula and Michael Witbrock},\nbooktitle={Automated Knowledge Base Construction (AKBC)},\nyear={2019},\nurl={https://openreview.net/forum?id=HJxYZ-5paX}\n}",
     "forum_id": "HJxYZ-5paX",
     "author_profiles": [
       "~Ryan_A_Musa1",
@@ -273,7 +273,7 @@
     "pdf": "/pdf/6b46104f77f411470265a3847896109782a1b4ce.pdf",
     "paperhash": "krasakis|semisupervised_ensemble_learning_with_weak_supervision_for_biomedical_relationship_extraction",
     "html": "https://github.com/littlewine/snorkel-ml/blob/master/SS_ensemble_learning_paper_appendix.pdf",
-    "_bibtex": "@inproceedings{    \nanonymous2019semi-supervised,    \ntitle={Semi-supervised Ensemble Learning with Weak Supervision for Biomedical Relationship Extraction},    \nauthor={Anonymous},    \nbooktitle={Submitted to Automated Knowledge Base Construction},    \nyear={2019},    \nurl={https://openreview.net/forum?id=rygDeZqap7},    \nnote={under review}    \n}",
+    "_bibtex": "@inproceedings{\nkrasakis2019semisupervised,\ntitle={Semi-supervised Ensemble Learning with Weak Supervision for Biomedical Relationship Extraction},\nauthor={Antonios Minas Krasakis and Evangelos Kanoulas and George Tsatsaronis},\nbooktitle={Automated Knowledge Base Construction (AKBC)},\nyear={2019},\nurl={https://openreview.net/forum?id=rygDeZqap7}\n}",
     "forum_id": "rygDeZqap7",
     "author_profiles": [
       "~Antonios_Minas_Krasakis1",
@@ -311,7 +311,7 @@
     "pdf": "/pdf/1c66d07da040d22f633d5876a09eeac2f12a75c9.pdf",
     "paperhash": "gashteovski|opiec_an_open_information_extraction_corpus",
     "html": "https://www.uni-mannheim.de/dws/research/resources/opiec/",
-    "_bibtex": "@inproceedings{    \nanonymous2019opiec:,    \ntitle={OPIEC: An Open Information Extraction Corpus},    \nauthor={Anonymous},    \nbooktitle={Submitted to Automated Knowledge Base Construction},    \nyear={2019},    \nurl={https://openreview.net/forum?id=HJxeGb5pTm},    \nnote={under review}    \n}",
+    "_bibtex": "@inproceedings{\ngashteovski2019opiec,\ntitle={{\\{}OPIEC{\\}}: An Open Information Extraction Corpus},\nauthor={Kiril Gashteovski and Sebastian Wanner and Sven Hertling and Samuel Broscheit and Rainer Gemulla},\nbooktitle={Automated Knowledge Base Construction (AKBC)},\nyear={2019},\nurl={https://openreview.net/forum?id=HJxeGb5pTm}\n}",
     "forum_id": "HJxeGb5pTm",
     "author_profiles": [
       "~Kiril_Gashteovski1",
@@ -348,7 +348,7 @@
       "Knowledge Representation"
     ],
     "paperhash": "alsuhaibani|joint_learning_of_hierarchical_word_embeddings_from_a_corpus_and_a_taxonomy",
-    "_bibtex": "@inproceedings{    \nanonymous2019joint,    \ntitle={Joint Learning of Hierarchical Word Embeddings from a Corpus and a Taxonomy},    \nauthor={Anonymous},    \nbooktitle={Submitted to Automated Knowledge Base Construction},    \nyear={2019},    \nurl={https://openreview.net/forum?id=S1xf-W5paX},    \nnote={under review}    \n}",
+    "_bibtex": "@inproceedings{\nalsuhaibani2019joint,\ntitle={Joint Learning of Hierarchical Word Embeddings from a Corpus and a Taxonomy},\nauthor={Mohammed Alsuhaibani and Takanori Maehara and Danushka Bollegala},\nbooktitle={Automated Knowledge Base Construction (AKBC)},\nyear={2019},\nurl={https://openreview.net/forum?id=S1xf-W5paX}\n}",
     "forum_id": "S1xf-W5paX",
     "author_profiles": [
       "~Mohammed_Alsuhaibani1",
@@ -384,7 +384,7 @@
     "pdf": "/pdf/89d196db9b1ad333807587fad867ef76a10673f2.pdf",
     "paperhash": "sekine|shinra_structuring_wikipedia_by_collaborative_contribution",
     "TL;DR": "We introduce a \"Resource by Collaborative Construction\" scheme to create KB, structured Wikipedia ",
-    "_bibtex": "@inproceedings{    \nanonymous2019shinra:,    \ntitle={SHINRA: Structuring Wikipedia by Collaborative Contribution},    \nauthor={Anonymous},    \nbooktitle={Submitted to Automated Knowledge Base Construction},    \nyear={2019},    \nurl={https://openreview.net/forum?id=HygfXWqTpm},    \nnote={under review}    \n}",
+    "_bibtex": "@inproceedings{\nsekine2019shinra,\ntitle={{\\{}SHINRA{\\}}: Structuring Wikipedia by Collaborative Contribution},\nauthor={Satoshi Sekine and Akio Kobayashi and Kouta Nakayama},\nbooktitle={Automated Knowledge Base Construction (AKBC)},\nyear={2019},\nurl={https://openreview.net/forum?id=HygfXWqTpm}\n}",
     "forum_id": "HygfXWqTpm",
     "author_profiles": [
       "~Satoshi_Sekine1",
@@ -426,7 +426,7 @@
     ],
     "paperhash": "abhishek|finegrained_entity_recognition_with_reduced_false_negatives_and_large_type_coverage",
     "html": "https://github.com/abhipec/HAnDS",
-    "_bibtex": "@inproceedings{    \nanonymous2019fine-grained,    \ntitle={Fine-grained Entity Recognition with Reduced False Negatives and Large Type Coverage},    \nauthor={Anonymous},    \nbooktitle={Submitted to Automated Knowledge Base Construction},    \nyear={2019},    \nurl={https://openreview.net/forum?id=HylHE-9p6m},    \nnote={under review}    \n}",
+    "_bibtex": "@inproceedings{\nabhishek2019finegrained,\ntitle={Fine-grained Entity Recognition with Reduced False Negatives and Large Type Coverage},\nauthor={Abhishek Abhishek and Sanya Bathla Taneja and Garima Malik and Ashish Anand and Amit Awekar},\nbooktitle={Automated Knowledge Base Construction (AKBC)},\nyear={2019},\nurl={https://openreview.net/forum?id=HylHE-9p6m}\n}",
     "forum_id": "HylHE-9p6m",
     "author_profiles": [
       "~Abhishek_Abhishek1",
@@ -464,7 +464,7 @@
       "Information Extraction"
     ],
     "paperhash": "alt|improving_relation_extraction_by_pretrained_language_representations",
-    "_bibtex": "@inproceedings{    \nanonymous2019improving,    \ntitle={Improving Relation Extraction by Pre-trained Language Representations},    \nauthor={Anonymous},    \nbooktitle={Submitted to Automated Knowledge Base Construction},    \nyear={2019},    \nurl={https://openreview.net/forum?id=BJgrxbqp67},    \nnote={under review}    \n}",
+    "_bibtex": "@inproceedings{\nalt2019improving,\ntitle={Improving Relation Extraction by Pre-trained Language Representations},\nauthor={Christoph Alt and Marc H{\\\"u}bner and Leonhard Hennig},\nbooktitle={Automated Knowledge Base Construction (AKBC)},\nyear={2019},\nurl={https://openreview.net/forum?id=BJgrxbqp67}\n}",
     "forum_id": "BJgrxbqp67",
     "author_profiles": [
       "~Christoph_Alt1",
@@ -497,7 +497,7 @@
     ],
     "pdf": "/pdf/b95a220f55c45a28f2eb4dd31cdf8eac5863e8c1.pdf",
     "paperhash": "mohan|medmentions_a_large_biomedical_corpus_annotated_with_umls_concepts",
-    "_bibtex": "@inproceedings{    \nanonymous2019medmentions:,    \ntitle={MedMentions: A Large Biomedical Corpus Annotated with UMLS Concepts},    \nauthor={Anonymous},    \nbooktitle={Submitted to Automated Knowledge Base Construction},    \nyear={2019},    \nurl={https://openreview.net/forum?id=SylxCx5pTQ},    \nnote={under review}    \n}",
+    "_bibtex": "@inproceedings{\nmohan2019medmentions,\ntitle={MedMentions: A Large Biomedical Corpus Annotated with {\\{}UMLS{\\}} Concepts},\nauthor={Sunil Mohan and Donghui Li},\nbooktitle={Automated Knowledge Base Construction (AKBC)},\nyear={2019},\nurl={https://openreview.net/forum?id=SylxCx5pTQ}\n}",
     "forum_id": "SylxCx5pTQ",
     "author_profiles": [
       "~Sunil_Mohan1",
@@ -526,7 +526,7 @@
       "Natural Language Processing"
     ],
     "paperhash": "hakami|learning_relation_representations_from_word_representations",
-    "_bibtex": "@inproceedings{    \nanonymous2019learning,    \ntitle={Learning Relation Representations from Word Representations},    \nauthor={Anonymous},    \nbooktitle={Submitted to Automated Knowledge Base Construction},    \nyear={2019},    \nurl={https://openreview.net/forum?id=r1e3WW5aTX},    \nnote={under review}    \n}",
+    "_bibtex": "@inproceedings{\nhakami2019learning,\ntitle={Learning Relation Representations from Word Representations},\nauthor={Huda Hakami and Danushka Bollegala},\nbooktitle={Automated Knowledge Base Construction (AKBC)},\nyear={2019},\nurl={https://openreview.net/forum?id=r1e3WW5aTX}\n}",
     "forum_id": "r1e3WW5aTX",
     "author_profiles": [
       "~Huda_Hakami1",
@@ -560,7 +560,7 @@
     ],
     "pdf": "/pdf/4e7ff4643f03767a05bf551c53affc1a7242020f.pdf",
     "paperhash": "o\u00f1ororubio|answering_visualrelational_queries_in_webextracted_knowledge_graphs",
-    "_bibtex": "@inproceedings{    \nanonymous2019answering,    \ntitle={Answering Visual-Relational Queries in Web-Extracted Knowledge Graphs},    \nauthor={Anonymous},    \nbooktitle={Submitted to Automated Knowledge Base Construction},    \nyear={2019},    \nurl={https://openreview.net/forum?id=BylEpe9ppX},    \nnote={under review}    \n}",
+    "_bibtex": "@inproceedings{\no{\\~n}oro-rubio2019answering,\ntitle={Answering Visual-Relational Queries in Web-Extracted Knowledge Graphs},\nauthor={Daniel O{\\~n}oro-Rubio and Mathias Niepert and Alberto Garc{\\'\\i}a-Dur{\\'a}n and Roberto Gonz{\\'a}lez-S{\\'a}nchez and Roberto J. L{\\'o}pez-Sastre},\nbooktitle={Automated Knowledge Base Construction (AKBC)},\nyear={2019},\nurl={https://openreview.net/forum?id=BylEpe9ppX}\n}",
     "forum_id": "BylEpe9ppX",
     "author_profiles": [
       "~Daniel_Onoro_Rubio1",
@@ -601,7 +601,7 @@
     "pdf": "/pdf/af891d960b00d9dd02ac34ca6a535bdaa51a807e.pdf",
     "paperhash": "wick|scaling_hierarchical_coreference_with_homomorphic_compression",
     "html": "https://michaelwick.github.io/files/main_appendix.pdf",
-    "_bibtex": "@inproceedings{    \nanonymous2019scaling,    \ntitle={Scaling Hierarchical Coreference with Homomorphic Compression},    \nauthor={Anonymous},    \nbooktitle={Submitted to Automated Knowledge Base Construction},    \nyear={2019},    \nurl={https://openreview.net/forum?id=H1gwRx5T6Q},    \nnote={under review}    \n}",
+    "_bibtex": "@inproceedings{\nwick2019scaling,\ntitle={Scaling Hierarchical Coreference with Homomorphic Compression},\nauthor={Michael Wick and Swetasudha Panda and Joseph Tassarotti and Jean-Baptiste Tristan},\nbooktitle={Automated Knowledge Base Construction (AKBC)},\nyear={2019},\nurl={https://openreview.net/forum?id=H1gwRx5T6Q}\n}",
     "forum_id": "H1gwRx5T6Q",
     "author_profiles": [
       "~Michael_L_Wick1",
@@ -634,7 +634,7 @@
     ],
     "pdf": "/pdf/3245347491d363c15a33c9d5af2890b86fd0b6c2.pdf",
     "paperhash": "kotnis|learning_numerical_attributes_in_knowledge_bases",
-    "_bibtex": "@inproceedings{    \nanonymous2019learning,    \ntitle={Learning Numerical Attributes in Knowledge Bases},    \nauthor={Anonymous},    \nbooktitle={Submitted to Automated Knowledge Base Construction},    \nyear={2019},    \nurl={https://openreview.net/forum?id=BJlh0x9ppQ},    \nnote={under review}    \n}",
+    "_bibtex": "@inproceedings{\nkotnis2019learning,\ntitle={Learning Numerical Attributes in Knowledge Bases},\nauthor={Bhushan Kotnis and Alberto Garc{\\'\\i}a-Dur{\\'a}n},\nbooktitle={Automated Knowledge Base Construction (AKBC)},\nyear={2019},\nurl={https://openreview.net/forum?id=BJlh0x9ppQ}\n}",
     "forum_id": "BJlh0x9ppQ",
     "author_profiles": [
       "",
@@ -665,7 +665,7 @@
     ],
     "pdf": "/pdf/21672f7dbc3918983b8d57a4bdca3f2f3ee62800.pdf",
     "paperhash": "schumacher|discriminative_candidate_generation_for_medical_concept_linking",
-    "_bibtex": "@inproceedings{    \nanonymous2019discriminative,    \ntitle={Discriminative Candidate Generation for Medical Concept Linking},    \nauthor={Anonymous},    \nbooktitle={Submitted to Automated Knowledge Base Construction},    \nyear={2019},    \nurl={https://openreview.net/forum?id=r1xP1W56pQ},    \nnote={under review}    \n}",
+    "_bibtex": "@inproceedings{\nschumacher2019discriminative,\ntitle={Discriminative Candidate Generation for Medical Concept Linking},\nauthor={Elliot Schumacher and Mark Dredze},\nbooktitle={Automated Knowledge Base Construction (AKBC)},\nyear={2019},\nurl={https://openreview.net/forum?id=r1xP1W56pQ}\n}",
     "forum_id": "r1xP1W56pQ",
     "author_profiles": [
       "~Elliot_Schumacher1",
@@ -701,7 +701,7 @@
       "Applications: Other"
     ],
     "paperhash": "boteanu|synonym_expansion_for_large_shopping_taxonomies",
-    "_bibtex": "@inproceedings{    \nanonymous2019synonym,    \ntitle={Synonym Expansion for Large Shopping Taxonomies},    \nauthor={Anonymous},    \nbooktitle={Submitted to Automated Knowledge Base Construction},    \nyear={2019},    \nurl={https://openreview.net/forum?id=rJx2g-qaTm},    \nnote={under review}    \n}",
+    "_bibtex": "@inproceedings{\nboteanu2019synonym,\ntitle={Synonym Expansion for Large Shopping Taxonomies},\nauthor={Adrian Boteanu and Adam Kiezun and Shay Artzi},\nbooktitle={Automated Knowledge Base Construction (AKBC)},\nyear={2019},\nurl={https://openreview.net/forum?id=rJx2g-qaTm}\n}",
     "forum_id": "rJx2g-qaTm",
     "author_profiles": [
       "~Adrian_Boteanu1",
@@ -735,7 +735,7 @@
       "Human computation"
     ],
     "paperhash": "kobren|integrating_user_feedback_under_identity_uncertainty_in_knowledge_base_construction",
-    "_bibtex": "@inproceedings{    \nanonymous2019integrating,    \ntitle={Integrating User Feedback under Identity Uncertainty in Knowledge Base Construction},    \nauthor={Anonymous},    \nbooktitle={Submitted to Automated Knowledge Base Construction},    \nyear={2019},    \nurl={https://openreview.net/forum?id=SygLHbcapm},    \nnote={under review}    \n}",
+    "_bibtex": "@inproceedings{\nkobren2019integrating,\ntitle={Integrating User Feedback under Identity Uncertainty in Knowledge Base Construction},\nauthor={Ari Kobren and Nicholas Monath and Andrew McCallum},\nbooktitle={Automated Knowledge Base Construction (AKBC)},\nyear={2019},\nurl={https://openreview.net/forum?id=SygLHbcapm}\n}",
     "forum_id": "SygLHbcapm",
     "author_profiles": [
       "~Ari_Kobren1",
@@ -763,7 +763,7 @@
     "pdf": "",
     "paperhash": "friedman|on_constrained_openworld_probabilistic_databases",
     "html": "https://www.dropbox.com/s/p2y4qc4z05y4mjl/akbc_appendix.pdf?dl=0",
-    "Keywords": "",
+    "_bibtex": "@inproceedings{\nfriedman2019on,\ntitle={On Constrained Open-World Probabilistic Databases},\nauthor={Tal Friedman and Guy Van den Broeck},\nbooktitle={Automated Knowledge Base Construction (AKBC)},\nyear={2019},\nurl={https://openreview.net/forum?id=r1xTXZ9p6Q}\n}",
     "forum_id": "r1xTXZ9p6Q",
     "author_profiles": [
       "~Tal_Friedman1",
@@ -800,7 +800,7 @@
     "subject areas": [],
     "pdf": "",
     "paperhash": "tsueng|applying_citizen_science_to_gene_drug_disease_relationship_extraction_from_biomedical_abstracts",
-    "Keywords": "",
+    "_bibtex": "@inproceedings{\ntsueng2019applying,\ntitle={Applying Citizen Science to Gene, Drug, Disease Relationship Extraction from Biomedical Abstracts},\nauthor={Ginger Tsueng and Max Nanis and Jennifer T. Fouquier and Michael Mayers and Benjamin M. Good and Andrew I Su},\nbooktitle={Automated Knowledge Base Construction (AKBC)},\nyear={2019},\nurl={https://openreview.net/forum?id=r1loaec6pm}\n}",
     "forum_id": "r1loaec6pm",
     "author_profiles": [
       "~Ginger_Tsueng1",
@@ -833,7 +833,7 @@
     "archival status": "",
     "subject areas": [],
     "paperhash": "pezeshkpour|investigating_robustness_and_interpretability_of_link_prediction_via_adversarial_modifications",
-    "Keywords": "",
+    "_bibtex": "@inproceedings{\npezeshkpour2019investigating,\ntitle={Investigating Robustness and Interpretability of Link Prediction via Adversarial Modifications},\nauthor={Pouya Pezeshkpour and Yifan Tian and Sameer Singh},\nbooktitle={Automated Knowledge Base Construction (AKBC)},\nyear={2019},\nurl={https://openreview.net/forum?id=Hkg7rbcp67}\n}",
     "forum_id": "Hkg7rbcp67",
     "author_profiles": [
       "~pouya_pezeshkpour1",
@@ -867,7 +867,7 @@
     "archival status": "",
     "subject areas": [],
     "paperhash": "qian|graphie_a_graphbased_framework_for_information_extraction",
-    "Keywords": "",
+    "_bibtex": "@inproceedings{\nqian2019graphie,\ntitle={Graph{\\{}IE{\\}}: A Graph-Based Framework for Information Extraction},\nauthor={Yujie Qian and Enrico Santus and Zhijing Jin and Jiang Guo and Regina Barzilay},\nbooktitle={Automated Knowledge Base Construction (AKBC)},\nyear={2019},\nurl={https://openreview.net/forum?id=Sye7fZcTTm}\n}",
     "forum_id": "Sye7fZcTTm",
     "author_profiles": [
       "~Yujie_Qian1",
@@ -906,7 +906,7 @@
     "archival status": "",
     "subject areas": [],
     "paperhash": "rossiello|learning_relational_representations_by_analogy_using_hierarchical_siamese_networks",
-    "Keywords": "",
+    "_bibtex": "@inproceedings{\nrossiello2019learning,\ntitle={Learning Relational Representations by Analogy using Hierarchical Siamese Networks},\nauthor={Gaetano Rossiello and Alfio Gliozzo and Robert Farrell and Nicolas Fauceglia and Michael Glass},\nbooktitle={Automated Knowledge Base Construction (AKBC)},\nyear={2019},\nurl={https://openreview.net/forum?id=SkxE1b56TQ}\n}",
     "forum_id": "SkxE1b56TQ",
     "author_profiles": [
       "~Gaetano_Rossiello1",
