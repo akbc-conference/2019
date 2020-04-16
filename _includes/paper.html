@@ -1,6 +1,12 @@
+{% assign url = site.baseurl | prepend: site.url %}
+
 <li>
+    {% if include.p['archival status'] == "Archival" %}
+    <a href="{{- url -}}/papers/{{- include.p.forum_id -}}">
+    {% else %}
     <a href="https://openreview.net/forum?id={{-include.p.forum_id-}}">
-    {{- include.p.title -}}
+    {% endif %}
+        {{- include.p.title -}}
     </a>
     <!-- PDF + HTML -->
     {% if include.p.pdf != "" %}

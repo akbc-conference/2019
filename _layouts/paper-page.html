@@ -1,0 +1,73 @@
+---
+layout: default
+format: paper-page
+---
+
+{% for paper in site.data.accepted %}
+	{% if paper['forum_id'] == page.forum_id %}
+	{% assign this_paper = paper %}
+    {% endif %}
+{% endfor %}
+
+{% assign url = site.baseurl | prepend: site.url %}
+
+<ul class="breadcrumbs">
+    <li><a href="{{ url }}/papers">Papers</a></li>
+</ul>
+
+<div class="row t30">
+	<div class="medium-12 columns">
+		<article>
+			<header>
+				<h2>{{ this_paper.title }}</h2>
+			</header>
+
+			<!-- Authors -->
+			<h4 class="subheader">
+				{% assign num = this_paper.authorids | size %}
+				{% for i in (0..num) limit: num %}
+					{%- if this_paper.author_profiles[i] == "" -%}
+						{{- this_paper.authors[i] -}}
+					{%- else -%}
+					<a href="https://openreview.net/profile?id={{-this_paper.author_profiles[i]-}}">
+						{{- this_paper.authors[i] -}}
+					</a>
+					{%- endif -%}
+					{%- if forloop.last == true -%}
+					.
+					{%- else -%}
+					,&nbsp;
+					{%- endif -%}
+				{% endfor %}
+			</h4>
+
+			<!-- PDF + HTML -->
+			<div class="button-group stack">
+				<a class="button" href="https://openreview.net{{-this_paper.pdf-}}">PDF</a>
+				{%- if this_paper.html -%}
+				<a class="button grey" href="{{-this_paper.html-}}">Website</a>
+				{%- endif -%}
+				<a class="button grey" href="https://openreview.net/forum?id={{-this_paper.forum_id-}}">OpenReview</a>
+			</div>
+			
+			<p class="teaser">
+				<b>TL;DR</b><br/>
+				{{ this_paper['TL;DR'] }}
+			</p>
+
+			<blockquote>
+				{{ this_paper.abstract }}
+			</blockquote>
+
+			<p>
+				<b>Citation</b><br/>
+				<pre>
+				{{- this_paper._bibtex -}}
+				</pre>
+			</p>
+
+			{{ content }}
+
+		</article>
+	</div><!-- /.medium-12.columns -->
+</div><!-- /.row -->
