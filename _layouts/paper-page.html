@@ -50,8 +50,12 @@ format: paper-page
 				<a class="button grey" href="https://openreview.net/forum?id={{-this_paper.forum_id-}}">OpenReview</a>
 			</div>
 			
+			<p>
+				<a href="https://doi.org/{{this_paper.doi}}">{{this_paper.doi}}</a>
+			</p>
+
 			<p class="teaser">
-				<b>TL;DR</b><br/>
+				<h3>TL;DR</h3>
 				{{ this_paper['TL;DR'] }}
 			</p>
 
@@ -59,12 +63,13 @@ format: paper-page
 				{{ this_paper.abstract }}
 			</blockquote>
 
-			<p>
-				<b>Citation</b><br/>
-				<pre>
-				{{- this_paper._bibtex -}}
-				</pre>
-			</p>
+			{% assign bibSize = this_paper._bibtex.size | minus: 2 %}
+
+			<h4>Citation</h4>
+			<pre>
+			{{- this_paper._bibtex | slice: 0, bibSize -}},
+doi={ {{-this_paper.doi | remove: "doi:" -}} }
+}</pre>
 
 			{{ content }}
 
